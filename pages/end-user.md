@@ -6,9 +6,9 @@ permalink: /end-user/
 
 ## Summary
 
-*   [Wiki page](http://en.wikipedia.org/wiki/SharePoint)
-*   ["What is SharePoint?" – Lynda Video](https://www.youtube.com/watch?v=TE9TpraPlrE)
-*   [Sharepoint.com](http://sharepoint.com)
+*   [sharepoint.com](http://sharepoint.com)
+*   [wiki page](http://en.wikipedia.org/wiki/SharePoint)
+*   ["what is sharepoint?" – lynda](https://www.youtube.com/watch?v=TE9TpraPlrE)
 
 ## Video Training
 
