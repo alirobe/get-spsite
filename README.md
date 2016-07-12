@@ -1,1 +1,1 @@
-the pages are in /pages :)
+the pages are in /pages :) 
