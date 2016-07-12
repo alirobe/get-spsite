@@ -13,7 +13,6 @@ get-spsite
 * [Development](development)
 * [Design and Branding](design)
 * [Planning and Adoption](planning-adoption)
-* [Essential Apps](essential-apps)
 * [Communities](communities)
 
 ## CONTRIBUTIONS
