@@ -48,7 +48,7 @@ Find out what's coming next
 ### General
 
 *   [SharePoint Manager](http://spm.codeplex.com/)
-*   365 PowerShell Snap-ins: [SP Online Management Shell](https://www.microsoft.com/en-us/download/details.aspx?id=35588), [MS Online Services CLI Sign-in](https://www.google.com.au/search?q=msoidcli_64bit&oq=msoidcli_64bit&aqs=chrome..69i57.184j0j7&sourceid=chrome&ie=UTF-8), [Azure AD Module](http://go.microsoft.com/fwlink/p/?linkid=236297) ([guide](https://www.petri.com/connect-office-365-using-powershell))
+*   365 PS-Snapins: [SP mgmt shell](https://www.microsoft.com/en-us/download/details.aspx?id=35588), [MSOL Services Sign-in](https://www.google.com.au/search?q=msoidcli_64bit&oq=msoidcli_64bit&aqs=chrome..69i57.184j0j7&sourceid=chrome&ie=UTF-8), [Azure AD Module](http://go.microsoft.com/fwlink/p/?linkid=236297) ([guide](https://www.petri.com/connect-office-365-using-powershell))
 *   New Admins may find this [Powershell Builder](http://www.microsoft.com/resources/TechNet/en-us/Office/media/WindowsPowerShell/WindowsPowerShellCommandBuilder.html) useful 
 
 ### Migration Vendors
