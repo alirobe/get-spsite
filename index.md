@@ -17,4 +17,6 @@ get-spsite
 
 ## CONTRIBUTIONS
 
-Feel free to contribute via GitHub issues/pull requests... <https://github.com/alirobe/get-spsite>
+Feel free to contribute via GitHub issues/pull requests... 
+<https://github.com/alirobe/get-spsite>
+authored and maintained by @[alirobe](https://twitter.com/alirobe)
