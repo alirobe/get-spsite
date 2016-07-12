@@ -10,8 +10,8 @@ Get up to speed
 
 *   [Lynda SharePoint Training](http://www.lynda.com/in/SharePoint)
 *   [Microsoft Virtual Academy](https://mva.microsoft.com/)
-*   [Microsoft SharePoint Videos](https://channel9.msdn.com/Tags/sharepoint?sort=viewed)
-*   [Many, many good + well reviewed books…](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+administration&sprefix=sharepoint+administration%2Caps%2C910)
+*   [Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+administration&sprefix=sharepoint+administration%2Caps%2C910)
+*   [Ch9 SharePoint Videos](https://channel9.msdn.com/Tags/sharepoint?sort=viewed)
 *   [MS Technet Virtual Labs](https://technet.microsoft.com/en-us/virtuallabs/bb467605.aspx)
 *   [Cloudshare Virtual Labs](https://www.cloudshare.com)
 
@@ -37,28 +37,35 @@ Find out what's coming next
 *   [SharePoint Team Blog](http://blogs.office.com/sharepoint/)
 *   [SharePointUpdates.com](https://sharepointupdates.com/)
 
-
 ## Toolkit 
+
+*   [SharePoint Manager](http://spm.codeplex.com/)
 
 ### On-Prem
 
 *   [AutoSPInstaller](http://autospinstaller.codeplex.com/) (note: read the docs carefully)
 *   [ULS Log Viewer](http://www.microsoft.com/en-au/download/details.aspx?id=44020)
+*   [Powershell Builder](http://www.microsoft.com/resources/TechNet/en-us/Office/media/WindowsPowerShell/WindowsPowerShellCommandBuilder.html)
 
-### General
+### Online
 
-*   [SharePoint Manager](http://spm.codeplex.com/)
-*   365 pssnapins: [SP mgmt shell](https://www.microsoft.com/en-us/download/details.aspx?id=35588), [MSOL Services Sign-in](https://www.google.com.au/search?q=msoidcli_64bit&oq=msoidcli_64bit&aqs=chrome..69i57.184j0j7&sourceid=chrome&ie=UTF-8), [Azure AD Module](http://go.microsoft.com/fwlink/p/?linkid=236297) ([guide](https://www.petri.com/connect-office-365-using-powershell))
-*   New Admins may find this [Powershell Builder](http://www.microsoft.com/resources/TechNet/en-us/Office/media/WindowsPowerShell/WindowsPowerShellCommandBuilder.html) useful 
+*   [O365 Admin Center](http://o365admin.center/)
+*   [MSDN: Connecting to 365 PowerShell](http://msdn.microsoft.com/en-us/library/dn568015.aspx)
+*   [Gary Lapointe on the Online Management Shell](http://blog.falchionconsulting.com/index.php/2015/06/itunity-sharepoint-online-article-series/)
 
-### Migration Vendors
+### Migration + Backup Vendors
+
+Note: vendor listings are alphabetical.
 
 *   [Technet: Deployment Resources for Office 365](https://technet.microsoft.com/en-us/library/hh852475.aspx?f=255&MSPPError=-2147217396)
-*   [Comprehensive Vendor List from topsharepoint.com](http://www.topsharepoint.com/content-migration-tools-for-sharepoint)
+*   [Technet: Backup and Restore best Practices for SharePoint 2013](https://technet.microsoft.com/en-us/library/gg266384.aspx)
+*   [Migration Vendor List from topsharepoint.com](http://www.topsharepoint.com/content-migration-tools-for-sharepoint)
+*   Most major backup vendors support SP: [ArcServe](https://www.google.com/search?q=arcserve+sharepoint), 
+[Veeam](https://www.veeam.com/microsoft-sharepoint-recovery-explorer.html) (free), etc.
 *   [AvePoint](http://www.avepoint.com/)
 *   [BitTitan](https://www.bittitan.com/) (Also does Exchange)
-*   [Dell](http://software.dell.com/products/migration-suite-for-sharepoint/)
+*   [Dell](http://software.dell.com/products/#bysolutionsharepoint)
 *   [Interversal](http://www.interversal.com/SharePoint/Tools/Free_File_System_to_SharePoint_Office_365_Migrator/) (free)
-*   [Metavis](http://www.metavistech.com/)
+*   [Metavis/Metalogix](http://www.metalogix.com/)
 *   [Share-Gate](http://www.share-gate.com/)
 *   [Thinkscape](http://www.thinkscape.com/)
