@@ -12,7 +12,7 @@ permalink: /communities/
 *   [SharePoint subreddit](https://sharepoint.reddit.com)
 *   [Office 365 subreddit](https://office365.reddit.com)
 *   Check your local [SharePoint Saturday](http://www.spsevents.org/) (it’s free!), and their associated Local Users Group (meetings in most cities once a month)
-*   [#SharePoint](https://twitter.com/search?q=%23sharepoint) on Twitter
+*   Twitter: [#SharePoint](https://twitter.com/search?q=%23sharepoint) [#sphelp](https://twitter.com/search?q=%23sphelp) ([@alirobe's influencer list](https://twitter.com/alirobe/lists/sharepoint-influencers/members))
 *   [Dynamics 365 subreddit](https://dynamics365.reddit.com) (new)
 
 ## Conferences
