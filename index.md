@@ -2,16 +2,23 @@
 layout: default
 ---
 
-    NAME 
-         get-spsite
-    SYNTAX 
-         get-spsite.com
-    ALIASES 
-         get-spblog.com     
-    REMARKS 
-        returns a bunch of sharepoint stuff...
+##  NAME 
 
-# Table of Contents 
+get-spsite
+
+##  SYNTAX 
+
+get-spsite.com
+
+##  ALIASES 
+  
+get-spblog.com     
+
+## REMARKS 
+
+returns a bunch of sharepoint and office 365 stuff.
+
+# PATHS
 
 * [End-User](end-user)
 * [Administration](administration)
@@ -21,6 +28,6 @@ layout: default
 * [Essential Apps](essential-apps)
 * [Communities](communities)
 
----
+## CONTRIBUTIONS
 
 Feel free to contribute via GitHub issues/pull requests... <https://github.com/alirobe/get-spsite>
