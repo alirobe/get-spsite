@@ -5,6 +5,10 @@ permalink: /planning-adoption/
 
 # Resources for Professionals working in the adoption and planning of Intranets.
 
+## Resources
+
+*   (All of the books)
+
 ## Insight
 
 *   [James Robertson - Step Two / Column Two](http://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))

@@ -6,7 +6,7 @@ permalink: /administration/
 
 ## Official / Useful Training  
 
-Get up to speed
+Get up to speed with these resources.
 
 *   [Lynda SharePoint Training](http://www.lynda.com/in/SharePoint)
 *   [Microsoft Virtual Academy](https://mva.microsoft.com/)
@@ -17,7 +17,7 @@ Get up to speed
 
 ## Authorities 
 
-Keep updated and resolve problems
+Keep updated with these sources.
 
 *   [Todd Klindt](http://www.toddklindt.com) (Blog, Podcast, Patch Notes)
 *   [Spence Harbar](http://harbar.net/)
@@ -31,7 +31,7 @@ Keep updated and resolve problems
 
 ## Roadmap
 
-Find out what's coming next
+Find out what's coming next.
 
 *   [Office 365 Roadmap](http://office.microsoft.com/en-us/products/office-365-roadmap-FX104343353.aspx)
 *   [SharePoint Team Blog](http://blogs.office.com/sharepoint/)
