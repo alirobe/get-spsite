@@ -6,19 +6,7 @@ layout: default
 
 get-spsite
 
-##  SYNTAX 
-
-get-spsite.com
-
-##  ALIASES 
-  
-get-spblog.com     
-
-## REMARKS 
-
-returns a bunch of sharepoint and office 365 stuff.
-
-# PATHS
+## PATHS
 
 * [End-User](end-user)
 * [Administration](administration)
