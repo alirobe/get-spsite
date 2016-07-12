@@ -60,8 +60,8 @@ Note: vendor listings are alphabetical.
 *   [Technet: Deployment Resources for Office 365](https://technet.microsoft.com/en-us/library/hh852475.aspx?f=255&MSPPError=-2147217396)
 *   [Technet: Backup and Restore best Practices for SharePoint 2013](https://technet.microsoft.com/en-us/library/gg266384.aspx)
 *   [Migration Vendor List from topsharepoint.com](http://www.topsharepoint.com/content-migration-tools-for-sharepoint)
-*   Most major backup vendors support SP: [ArcServe](https://www.google.com/search?q=arcserve+sharepoint), 
-[Veeam](https://www.veeam.com/microsoft-sharepoint-recovery-explorer.html) (free), etc.
+*   (most vendors support SP backup) [ArcServe](https://www.google.com/search?q=arcserve+sharepoint) 
+[Veeam](https://www.veeam.com/microsoft-sharepoint-recovery-explorer.html) etc
 *   [AvePoint](http://www.avepoint.com/)
 *   [BitTitan](https://www.bittitan.com/) (Also does Exchange)
 *   [Dell](http://software.dell.com/products/#bysolutionsharepoint)
