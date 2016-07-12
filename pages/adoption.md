@@ -19,3 +19,8 @@ permalink: /adoption/
 
 *   [Discover SharePoint](http://www.discoversharepoint.com) ([adoption guide](http://download.microsoft.com/download/F/6/5/F65D8AB6-772F-400B-8982-7D6439FA7D9B/Sharepoint_Adoption_Guide.pdf))
 *   [Office 365 Success Centre](http://success.office.com/) ([adoption resources](http://success.office.com/adoption))
+
+## Adoption Add-ons
+
+*   [ContentPanda](http://www.contentpanda.com/product-content-panda-for-sharepoint/)
+*   [VisualSP](https://www.visualsp.com/)

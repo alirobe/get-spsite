@@ -28,6 +28,8 @@ permalink: /communities/
 *   [Office 365 Dev Podcasts](http://dev.office.com/podcasts)
 *   [Microsoft Mechanics](https://channel9.msdn.com/Mechanics)
 *   [Todd Klindt’s SharePoint Netcast](http://www.toddklindt.com/netcast/default.aspx)
+*   [CollabShow](http://www.collabshow.com/)
+*   [Microsoft Cloud Show](http://www.microsoftcloudshow.com/)
 *   [SharePoint Pro Mag](http://sharepointpromag.com/)
 *   [Medium: SharePoint](https://medium.com/tag/sharepoint)
 
