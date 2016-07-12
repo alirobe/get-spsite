@@ -18,14 +18,8 @@ Keep updated and resolve problems
 *   [Waldek Mastykarz](http://blog.mastykarz.nl) & [Mavention](http://www.mavention.com/blog)
 *   [Christian Stahl](http://chrisstahl.wordpress.com)
 *   [Yaroslav Pentsarskyy](http://www.sharemuch.com)
+*   [David Lozzi](https://davidlozzi.com/)
 *   [John Liu](http://johnliu.net)
-
-## Inspiration
-
-*   [topsharepoint.com](http://www.topsharepoint.com/)
-*   [wssdemo.com/livepivot](http://www.wssdemo.com/livepivot/)
-*   [builtwith.com](http://builtwith.com)
-*   [StepTwo](http://www.steptwo.com.au)
 
 ## Resources and Frameworks
 
@@ -33,6 +27,12 @@ Keep updated and resolve problems
 *   [Official Responsive UI Package for SP 2013 On-Premesis](https://dev.office.com/blogs/announcing-responsive-ui-package-for-sharepoint-on-premises-2013-2016)
 *   [CSS Chart](http://sharepointexperience.com/csschart/csschart.html)
 *   [Dev Workflow Guide by Stefan Bauer](http://www.n8d.at/blog/how-i-develop-in-sharepoint-and-office-365-now/)
+
+## Inspiration
+
+*   [topsharepoint.com](http://www.topsharepoint.com/)
+*   [builtwith.com](http://builtwith.com)
+*   [StepTwo](http://www.steptwo.com.au)
 
 ## Tools
 

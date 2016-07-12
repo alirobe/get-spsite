@@ -3,15 +3,16 @@ layout: default
 permalink: /planning-adoption/
 ---
 
-# Resources for Adoption and Planning of Intranets, SharePoint, and Office 365
+# Resources for Professionalals working in the adoption and planning of Intranets.
 
 ## Insight
 
-*   [James Robertson](http://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
-*   [Michael Sampson](http://michaelsampson.net/currents/)
-*   [Paul Culmsee – AKA Clever Workarounds](http://www.cleverworkarounds.com/)
+*   [James Robertson - Step Two / Column Two](http://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
+*   [Michael Sampson - Currents](http://michaelsampson.net/currents/)
+*   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
 *   [Marc Anderson](http://sympmarc.com)
-*   [Craig Roth](http://blogs.gartner.com/craig-roth)
+*   [John Vicary - SharePointBytes](http://sharepointbytes.com/)
+*   [Craig Roth - Gartner Blog](http://blogs.gartner.com/craig-roth)
 *   [SharePoint Pro Mag](http://sharepointpromag.com)
 *   [TechTarget](http://searchcontentmanagement.techtarget.com/)
 *   (Not SharePoint Specific) [The Manual](http://themanual.org)
