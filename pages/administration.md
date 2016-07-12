@@ -6,7 +6,7 @@ permalink: /administration/
 
 ## Official / Useful Training  
 
-Get up to speed with these resources.
+Get up to speed
 
 *   [Lynda SharePoint Training](http://www.lynda.com/in/SharePoint)
 *   [Microsoft Virtual Academy](https://mva.microsoft.com/)
@@ -17,7 +17,7 @@ Get up to speed with these resources.
 
 ## Authorities 
 
-Keep updated with these sources.
+Keep updated and resolve problems
 
 *   [Todd Klindt](http://www.toddklindt.com) (Blog, Podcast, Patch Notes)
 *   [Spence Harbar](http://harbar.net/)
@@ -31,15 +31,34 @@ Keep updated with these sources.
 
 ## Roadmap
 
+Find out what's coming next
+
 *   [Office 365 Roadmap](http://office.microsoft.com/en-us/products/office-365-roadmap-FX104343353.aspx)
 *   [SharePoint Team Blog](http://blogs.office.com/sharepoint/)
 *   [SharePointUpdates.com](https://sharepointupdates.com/)
 
-## Install/Migrate Toolkit 
 
-*   [AutoSPInstaller](http://autospinstaller.codeplex.com/) (note: read the documentation carefully)
+## Toolkit 
+
+### On-Prem
+
+*   [AutoSPInstaller](http://autospinstaller.codeplex.com/) (note: read the docs carefully)
 *   [ULS Log Viewer](http://www.microsoft.com/en-au/download/details.aspx?id=44020)
+
+### General
+
 *   [SharePoint Manager](http://spm.codeplex.com/)
-*   [MigrationWiz](https://www.bittitan.com/products/#migrationwiz)
-*   [FilesToGo](http://www.thinkscape.com/SharePoint-Online-File-Migration-Tool/) / [Interversal](http://www.interversal.com/SharePoint/Tools/Free_File_System_to_SharePoint_Office_365_Migrator/) (very small deployments) or [Metavis](http://www.metavistech.com/) (larger)
-*   New Admins may find this [Powershell Builder](http://www.microsoft.com/resources/TechNet/en-us/Office/media/WindowsPowerShell/WindowsPowerShellCommandBuilder.html) useful (n/a for 365)
+*   365 PowerShell Snap-ins: [SP Online Management Shell](https://www.microsoft.com/en-us/download/details.aspx?id=35588), [MS Online Services CLI Sign-in](https://www.google.com.au/search?q=msoidcli_64bit&oq=msoidcli_64bit&aqs=chrome..69i57.184j0j7&sourceid=chrome&ie=UTF-8), [Azure AD Module](http://go.microsoft.com/fwlink/p/?linkid=236297) ([guide](https://www.petri.com/connect-office-365-using-powershell))
+*   New Admins may find this [Powershell Builder](http://www.microsoft.com/resources/TechNet/en-us/Office/media/WindowsPowerShell/WindowsPowerShellCommandBuilder.html) useful 
+
+### Migration Vendors
+
+*   [Technet: Deployment Resources for Office 365](https://technet.microsoft.com/en-us/library/hh852475.aspx?f=255&MSPPError=-2147217396)
+*   [Comprehensive Vendor List from topsharepoint.com](http://www.topsharepoint.com/content-migration-tools-for-sharepoint)
+*   [AvePoint](http://www.avepoint.com/)
+*   [BitTitan](https://www.bittitan.com/) (Also does Exchange)
+*   [Dell](http://software.dell.com/products/migration-suite-for-sharepoint/)
+*   [Interversal](http://www.interversal.com/SharePoint/Tools/Free_File_System_to_SharePoint_Office_365_Migrator/) (free)
+*   [Metavis](http://www.metavistech.com/)
+*   [Share-Gate](http://www.share-gate.com/)
+*   [Thinkscape](http://www.thinkscape.com/)
