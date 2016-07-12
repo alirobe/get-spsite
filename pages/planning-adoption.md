@@ -3,7 +3,7 @@ layout: default
 permalink: /planning-adoption/
 ---
 
-# Resources for Professionalals working in the adoption and planning of Intranets.
+# Resources for Professionals working in the adoption and planning of Intranets.
 
 ## Insight
 
