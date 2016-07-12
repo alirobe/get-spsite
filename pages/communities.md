@@ -6,14 +6,14 @@ permalink: /communities/
     
 ## Communities
 
-*   SharePoint / Office 365 Yammer (ask for an invite from @[joeloleson](https://twitter.com/joeloleson) / [info here](http://blog.furuknap.net/finally-a-sharepoint-community-that-works-spyam-is-here-on-yam))
+*   [MS Official Office 365 and SharePoint Yammer Community](http://aka.ms/OfficeDevPnPYammer)
 *   [SharePoint Technet Forums](http://social.technet.microsoft.com/Forums/en-US/category/sharepoint)
 *   [SharePoint Stack Exchange](http://sharepoint.stackexchange.com/)
 *   [SharePoint subreddit](https://sharepoint.reddit.com)
 *   [Office 365 subreddit](https://office365.reddit.com)
-*   [Dynamics 365 subreddit](https://dynamics365.reddit.com) (new)
 *   Check your local [SharePoint Saturday](http://www.spsevents.org/) (it’s free!), and their associated Local Users Group (meetings in most cities once a month)
 *   [#SharePoint](https://twitter.com/search?q=%23sharepoint) on Twitter
+*   [Dynamics 365 subreddit](https://dynamics365.reddit.com) (new)
 
 ## Conferences
 
