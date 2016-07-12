@@ -13,13 +13,13 @@ layout: default
 
 # Table of Contents 
 
-* [End-User](End-User)
-* [Administration](Administration)
-* [Development](Development)
-* [Design and Branding](Design)
-* [Planning and Adoption](Planning-Adoption)
-* [Essential Apps](Essential-Apps)
-* [Communities](Communities)
+* [End-User](end-user)
+* [Administration](administration)
+* [Development](development)
+* [Design and Branding](design)
+* [Planning and Adoption](planning-adoption)
+* [Essential Apps](essential-apps)
+* [Communities](communities)
 
 ---
 
