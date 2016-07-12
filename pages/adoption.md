@@ -17,8 +17,7 @@ permalink: /adoption/
 
 ## Microsoft Toolkits
 
-*   [Office 365 Fasttrack (AKA Success Center)](http://fasttrack.office.com/) 
-*   [Discover SharePoint](http://www.discoversharepoint.com) ([adoption guide](http://download.microsoft.com/download/F/6/5/F65D8AB6-772F-400B-8982-7D6439FA7D9B/Sharepoint_Adoption_Guide.pdf))
+*   [Office 365 Fasttrack (AKA Success Center, AKA Discover SharePoint)](http://fasttrack.office.com/) 
 
 ## Adoption Add-ons
 
