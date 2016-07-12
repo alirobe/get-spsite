@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: rgb(0,36,86);
-  color: #eaeaea;
+  color: #eee;
   font: 16px;
   line-height: 1.5;
   font-family: Consolas, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -38,7 +38,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #eee;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -49,7 +49,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Consolas, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: #eee;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -87,32 +87,40 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
+  font-size: 16px; 
   font-family: Consolas, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: #eee;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
+  line-height: 1.5;
+  margin-top:1em;
+  margin-bottom:1em;
 }
 
 #main_content h1 {
-  font-size: 30px;
+  font-size: 16px; 
+  background: white;
+  color: rgb(0,36,86);
 }
 
 #main_content h2 {
-  font-size: 24px;
+  font-size: 16px; 
+  text-transform:uppercase;
 }
 
 #main_content h3 {
-  font-size: 18px;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 #main_content h4 {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 #main_content h5 {
-  font-size: 12px;
+  font-size: 16px;
   text-transform: uppercase;
   margin: 0 0 5px 0;
 }
@@ -137,7 +145,7 @@ ul li:before {
   content: ">>";
   font-family: Consolas, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 13px;
-  color: #b5e853;
+  color: #eee;
   margin-left: -37px;
   margin-right: 21px;
   line-height: 16px;
@@ -154,7 +162,7 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 14px;
-  color: #b5e853;
+  color: #eee;
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -170,7 +178,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #eee;
   padding: 5px 10px;
 }
 
@@ -181,8 +189,8 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  border-bottom: 1px dashed #eee;
+  color: #eee;
 }
 
 /* Buttons
