@@ -9,17 +9,18 @@ permalink: /planning-adoption/
 
 *   (All of the books)
 
-## Insight
+## Blogs and Insight
 
+*   [IT Unity](https://www.itunity.com/)
+*   [SharePoint Pro Mag](http://sharepointpromag.com)
+*   [TechTarget](http://searchcontentmanagement.techtarget.com/)
+*   (Not SharePoint Specific) [The Manual](http://themanual.org)
 *   [James Robertson - Step Two / Column Two](http://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
 *   [Michael Sampson - Currents](http://michaelsampson.net/currents/)
 *   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
 *   [Marc Anderson](http://sympmarc.com)
 *   [John Vicary - SharePointBytes](http://sharepointbytes.com/)
 *   [Craig Roth - Gartner Blog](http://blogs.gartner.com/craig-roth)
-*   [SharePoint Pro Mag](http://sharepointpromag.com)
-*   [TechTarget](http://searchcontentmanagement.techtarget.com/)
-*   (Not SharePoint Specific) [The Manual](http://themanual.org)
 
 ## Microsoft Toolkits
 
@@ -28,6 +29,7 @@ permalink: /planning-adoption/
 
 ## Industry Blogs
 
+*   [IT Unity](https://www.itunity.com/)
 *   [Brightstarr](http://www.brightstarr.com/Sharepoint-Technology-and-Application-Insights?cat=Business%20Value)
 *   [21 Apps](http://www.21apps.com/blog/)
 *   [Professional Advantage](http://blog.pa.com.au/category/sharepoint-2/)
