@@ -15,7 +15,7 @@ get-spsite
 * [Planning and Adoption](planning-adoption)
 * [Communities](communities)
 
-## CONTRIBUTIONS
+## CONTRIBUTE
 
 * [Contribute via Github](https://github.com/alirobe/get-spsite)
-* Contact the author: @[alirobe](https://twitter.com/alirobe) / [ali.id.au](http://www.ali.id.au)
+* Contact the author: [@alirobe](https://twitter.com/alirobe) / [ali.id.au](http://www.ali.id.au)
