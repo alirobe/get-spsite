@@ -10,7 +10,7 @@ permalink: /planning-adoption/
 *   [James Robertson](http://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
 *   [Michael Sampson](http://michaelsampson.net/currents/)
 *   [Paul Culmsee – AKA Clever Workarounds](http://www.cleverworkarounds.com/)
-*   [Marc Anderson](sympmarc.com)
+*   [Marc Anderson](http://sympmarc.com)
 *   [Craig Roth](http://blogs.gartner.com/craig-roth)
 *   [SharePoint Pro Mag](http://sharepointpromag.com)
 *   [TechTarget](http://searchcontentmanagement.techtarget.com/)
