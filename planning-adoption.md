@@ -1,6 +1,8 @@
 ---
 layout: default
+permalink: /planning-adoption/
 ---
+
 # Resources for Adoption and Planning of Intranets, SharePoint, and Office 365
 
 ## Insight
@@ -18,3 +20,9 @@ layout: default
 
 *   [Discover SharePoint](http://www.discoversharepoint.com) ([adoption guide](http://download.microsoft.com/download/F/6/5/F65D8AB6-772F-400B-8982-7D6439FA7D9B/Sharepoint_Adoption_Guide.pdf))
 *   [Office 365 Success Centre](http://success.office.com/) ([adoption resources](http://success.office.com/adoption))
+
+## Industry Blogs
+
+*   [Brightstarr](http://www.brightstarr.com/Sharepoint-Technology-and-Application-Insights?cat=Business%20Value)
+*   [21 Apps](http://www.21apps.com/blog/)
+*   [Professional Advantage](http://blog.pa.com.au/category/sharepoint-2/)

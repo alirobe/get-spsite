@@ -1,12 +1,13 @@
 ---
 layout: default
+permalink: /development/
 ---
 
 # Resources for Development of SharePoint and Office 365 solutions
 
 ## Official / Useful Training  
-Get up to speed with these resources.
 
+Get up to speed with these resources.
 
 *   [Office Dev Centre](http://dev.office.com/)
 *   [Channel9 Videos](http://channel9.msdn.com/Tags/sharepoint)
@@ -15,6 +16,7 @@ Get up to speed with these resources.
 
 
 ## Authorities 
+
 Keep updated with these sources.
 
 *   [Marc Anderson](http://sympmarc.com/)

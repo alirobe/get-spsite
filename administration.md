@@ -1,9 +1,11 @@
 ---
 layout: default
+permalink: /administration/
 ---
 # Resources for IT Pros and Administrators of SharePoint and Office 365
 
 ## Official / Useful Training  
+
 Get up to speed with these resources.
 
 *   [Lynda SharePoint Training](http://www.lynda.com/in/SharePoint)
@@ -14,6 +16,7 @@ Get up to speed with these resources.
 *   [Cloudshare Virtual Labs](https://www.cloudshare.com)
 
 ## Authorities 
+
 Keep updated with these sources.
 
 *   [Todd Klindt](http://www.toddklindt.com) (Blog, Podcast, Patch Notes)

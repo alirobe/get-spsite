@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /essential-apps/
 ---
 # Top/Useful Apps in Office 365 and SharePoint
 

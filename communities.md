@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /communities/
 ---
 # Communities built around SharePoint and Office/Dynamics 365
     

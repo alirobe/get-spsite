@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /design/
 ---
 # Design Resources for SharePoint, Office 365, and Intranets
 
