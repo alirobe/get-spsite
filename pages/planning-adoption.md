@@ -19,18 +19,17 @@ Keep updated with these sources.
 
 *   [SharePoint Pro Mag](http://sharepointpromag.com)
 *   [James Robertson - Step Two / Column Two](http://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
-*   [TechTarget](http://searchcontentmanagement.techtarget.com/)
-*   (Not SharePoint Specific) [The Manual](http://themanual.org)
 *   [Michael Sampson - Currents](http://michaelsampson.net/currents/)
 *   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
-*   [Marc Anderson](http://sympmarc.com)
+*   [Marc Anderson - Sympmarc](http://sympmarc.com)
 *   [John Vicary - SharePointBytes](http://sharepointbytes.com/)
-*   [IT Unity](https://www.itunity.com/)
 
 ## Industry Blogs
 
+*   [The Manual](http://themanual.org)
 *   [IT Unity](https://www.itunity.com/)
-*   [Craig Roth - Gartner Blog](http://blogs.gartner.com/craig-roth)
+*   [TechTarget](http://searchcontentmanagement.techtarget.com/)
+*   [Gartner Blogs - Craig Roth](http://blogs.gartner.com/craig-roth)
 *   [Brightstarr](http://www.brightstarr.com/Sharepoint-Technology-and-Application-Insights?cat=Business%20Value)
 *   [21 Apps](http://www.21apps.com/blog/)
 *   [Professional Advantage](http://blog.pa.com.au/category/sharepoint-2/)
