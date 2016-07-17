@@ -23,19 +23,19 @@ Visit these real people.
 
 *   Global community conference list: [List here](http://icansharepoint.com/sharepoint-conferences-in-2016/)
 *   Check your local [SharePoint Saturday](http://www.spsevents.org/) (it’s free!), and their associated User Group.
-*   Major yearly events: [Ignite](https://ignite.microsoft.com/), [Worldwide Partner Conference](https://partner.microsoft.com/), and [SPTechCon](http://www.sptechcon.com/)
+*   Official yearly events: [Ignite](https://ignite.microsoft.com/) (+ local Ignite Roadshow events), [Worldwide Partner Conference](https://partner.microsoft.com/), and [SPTechCon](http://www.sptechcon.com/)
 *   For conference recordings check Youtube and [Channel9](http://ch9.ms)
 
 ## News & Updates
 
 Keep up to date with these feeds.
 
-*   [Office Blog](https://blogs.office.com/)
-*   [Office 365 Dev Podcasts](http://dev.office.com/podcasts)
-*   [Microsoft Mechanics](https://channel9.msdn.com/Mechanics)
+*   Official [Office Blog](https://blogs.office.com/)
+*   Official [Office 365 Dev Podcasts](http://dev.office.com/podcasts)
+*   Official ['Office Mechanics' Blog](https://channel9.msdn.com/Mechanics)
 *   [Todd Klindt’s SharePoint Netcast](http://www.toddklindt.com/netcast/default.aspx)
-*   [CollabShow](http://www.collabshow.com/)
 *   [Microsoft Cloud Show](http://www.microsoftcloudshow.com/)
+*   [CollabShow](http://www.collabshow.com/)
 *   [SharePoint Pro Mag](http://sharepointpromag.com/)
 *   [Medium: SharePoint](https://medium.com/tag/sharepoint)
 *   [CMSWire.com](http://www.cmswire.com/)
