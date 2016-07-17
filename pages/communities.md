@@ -19,12 +19,13 @@ Visit these online groups.
 
 ## Conferences
 
-Visit these real people.
+Real/Virtual Get-togethers.
 
 *   Global community conference list: [List here](http://icansharepoint.com/sharepoint-conferences-in-2016/)
 *   Check your local [SharePoint Saturday](http://www.spsevents.org/) (it’s free!), and their associated User Group.
 *   Official yearly events: [Ignite](https://ignite.microsoft.com/) (+ local Ignite Roadshow events), [Worldwide Partner Conference](https://partner.microsoft.com/), and [SPTechCon](http://www.sptechcon.com/)
 *   For conference recordings check Youtube and [Channel9](http://ch9.ms)
+*   [IT Unity](https://itunity.com) has [Connect Online](https://www.unityconnect.com/online) - a free online conference with free access to recordings.
 
 ## News & Updates
 
