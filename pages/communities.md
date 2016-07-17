@@ -8,13 +8,14 @@ permalink: /communities/
 
 Visit these online groups.
 
-*   [MS Official Office 365 and SharePoint Yammer Community](http://aka.ms/OfficeDevPnPYammer)
-*   [SharePoint Technet Forums](http://social.technet.microsoft.com/Forums/en-US/category/sharepoint)
+*   Official ["IT Pro Network" Yammer Community](http://aka.ms/OfficeDevPnPYammer)
+*   Official [Office Network](https://network.office.com) (new)
+*   Official [SharePoint Uservoice](https://sharepoint.uservoice.com/)
+*   Official [SharePoint Technet Forums](http://social.technet.microsoft.com/Forums/en-US/category/sharepoint)
 *   [SharePoint Stack Exchange](http://sharepoint.stackexchange.com/)
 *   [SharePoint subreddit](https://sharepoint.reddit.com)
 *   [Office 365 subreddit](https://office365.reddit.com)
 *   Twitter: [#SharePoint](https://twitter.com/search?q=%23sharepoint) [#sphelp](https://twitter.com/search?q=%23sphelp) ([@alirobe's influencer list](https://twitter.com/alirobe/lists/sharepoint-influencers/members))
-*   [Dynamics 365 subreddit](https://dynamics365.reddit.com) (new)
 
 ## Conferences
 
