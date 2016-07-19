@@ -15,14 +15,15 @@ Get up to speed with these resources.
 
 Keep up to date with these sources. 
 
-*   [Michael Sampson](http://michaelsampson.net/currents/)
-*   [Paul Culmsee – AKA Clever Workarounds](http://www.cleverworkarounds.com/)
-*   [Marc Anderson](sympmarc.com)
-*   [Craig Roth](http://blogs.gartner.com/craig-roth)
+*   [Michael Sampson - Currents](http://michaelsampson.net/currents/)
+*   [Paul Culmsee - Clever Workarounds](http://www.cleverworkarounds.com/)
+*   [Marc Anderson - Sympmarc](sympmarc.com)
+*   [Craig Roth - Gartner Blog](http://blogs.gartner.com/craig-roth)
 *   [SharePoint Pro Mag](http://sharepointpromag.com)
+*   [James Robertson - Column Two](http://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
+*   [The Manual](http://themanual.org) (Not SharePoint Specific) 
 *   [TechTarget](http://searchcontentmanagement.techtarget.com/)
-*   [James Robertson](http://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
-*   (Not SharePoint Specific) [The Manual](http://themanual.org)
+
 
 ## Adoption Add-ons
 
