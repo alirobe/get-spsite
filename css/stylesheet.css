@@ -50,9 +50,6 @@ header h1 {
   font-weight: bold;
   font-family: Consolas, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #eee;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
 }
@@ -91,9 +88,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Consolas, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #eee;
   letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
   line-height: 1.5;
   margin-top:1em;
   margin-bottom:1em;
@@ -201,7 +195,6 @@ hr {
 
 a {
   color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 /* Clearfix */
