@@ -20,7 +20,7 @@ Keep updated with these sources.
 *   [Waldek Mastykarz](http://blog.mastykarz.nl) & [Mavention](http://www.mavention.com/blog)
 *   [Christian Stahl](http://chrisstahl.wordpress.com)
 *   [Yaroslav Pentsarskyy](http://www.sharemuch.com)
-*   [Elio Struyf](http://www.eliostruyf.com/)
+*   [Elio Struyf](http://www.eliostruyf.com/) ([gh](https://github.com/estruyf))
 *   [David Lozzi](https://davidlozzi.com/)
 *   [John Liu](http://johnliu.net)
 
