@@ -23,5 +23,6 @@ Keep updated with these sources.
 *   [Wictor Wilen](http://www.wictorwilen.se/)
 *   [Chris O’Brien](http://www.sharepointnutsandbolts.com/)
 *   [David Drever](http://prairiedeveloper.com/)
+*   [Andrew Connell](http://www.andrewconnell.com/) ([gh](https://github.com/andrewconnell))
 *   Find more at the list of [Microsoft MVPs here](https://mvp.microsoft.com/en-us/MvpSearch?ex=Office+Servers+and+Services)…
 *   More at this [reddit thread](https://www.reddit.com/r/sharepoint/comments/3xur5o/useful_sharepoint_dev_tools/)
