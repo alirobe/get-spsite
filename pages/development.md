@@ -13,7 +13,7 @@ Get up to speed with these resources.
 *   [Channel9 Videos](http://channel9.msdn.com/Tags/sharepoint)
 *   [Pluralsight Training](http://pluralsight.net)
 *   [Office 365 Patterns and Practices](https://github.com/OfficeDev/PnP)
-*   [Awesome .NET](https://github.com/quozd/awesome-dotnet)
+*   [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint) - [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 
 ## Authorities 
 
