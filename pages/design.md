@@ -32,20 +32,19 @@ Use these tools.
 *   [Official Responsive UI Package for SP 2013 On-Premesis](https://dev.office.com/blogs/announcing-responsive-ui-package-for-sharepoint-on-premises-2013-2016)
 *   [CSS Chart](http://sharepointexperience.com/csschart/csschart.html)
 *   [Dev Workflow Guide by Stefan Bauer](http://www.n8d.at/blog/how-i-develop-in-sharepoint-and-office-365-now/)
+*   Stock Pics: [The Envato Market](https://market.envato.com/), [FreeImages.com](http://freeimages.com), [Syncfusion Metro Studio](https://www.syncfusion.com/downloads/metrostudio)
+*   Code snippets: [The Awesome Lists](https://github.com/sindresorhus/awesome)
 
 ## Inspiration
 
 Borrow these ideas.
 
 *   [topsharepoint.com](http://www.topsharepoint.com/)
-*   [builtwith.com](http://builtwith.com)
-*   [StepTwo](http://www.steptwo.com.au)
+*   [builtwith.com](http://builtwith.com/)
+*   [StepTwo Intranet Awards / Books](http://www.steptwo.com.au/)
 
-## Tools
 
-*   [Syncfusion Metro Studio](https://www.syncfusion.com/downloads/metrostudio)
+## Tools and Themes
+
 *   [Apptex for SharePoint](http://spapptex.com/)
-
-## Theme Vendors
-
 *   [Bind Tuning](http://bindtuning.com)
