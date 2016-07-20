@@ -10,6 +10,7 @@ Get up to speed with these resources.
 
 *   [Lynda SharePoint Training](http://www.lynda.com/in/SharePoint)
 *   [Microsoft Virtual Academy](https://mva.microsoft.com/)
+*   [CBTNuggets](https://www.cbtnuggets.com/certification-playlist/microsoft/99008)
 *   [MS Press Free Book Collection](https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/)
 *   [Well-Reviewed Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+administration&sprefix=sharepoint+administration%2Caps%2C910)
 *   [Ch9 SharePoint Videos](https://channel9.msdn.com/Tags/sharepoint?sort=viewed)
