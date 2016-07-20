@@ -45,7 +45,14 @@ Borrow these ideas.
 *   [StepTwo Intranet Awards / Books](http://www.steptwo.com.au/)
 
 
-## Tools and Themes
+## Tools, Themes, Packages
 
-*   [Apptex for SharePoint](http://spapptex.com/)
-*   [Bind Tuning](http://bindtuning.com)
+Note: vendor listings are alphabetical.
+
+*   [Apptex for SharePoint](http://spapptex.com/) (free)
+*   [Bind Tuning](http://bindtuning.com) (free/paid)
+*   [Bonzai](http://bonzai-intranet.com/)
+*   [ElevatePoint](http://elevatepoint.com/)
+*   [Unily](https://www.unily.com/)
+*   [Wizdom](http://www.wizdom-intranet.com/)
+*   [Vendor selection guidance (neutral) - StepTwo](http://www.steptwo.com.au/papers/out-of-the-box-intranet-solution/)
