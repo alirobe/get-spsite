@@ -41,6 +41,7 @@ Find out what's coming next.
 
 ## Toolkit 
 
+*   [Patterns and Practices Tools](https://github.com/OfficeDev/PnP-Tools)
 *   [SharePoint Manager](http://spm.codeplex.com/)
 
 ### On-Prem
