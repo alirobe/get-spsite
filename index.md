@@ -12,7 +12,7 @@ get-spsite
 * [Administration](administration)
 * [Development](development)
 * [Design and Branding](design)
-* [Planning and Adoption](planning-adoption)
+* [Planning, Adoption, and ECM](planning-adoption)
 * [Communities](communities)
 
 ## CONTRIBUTE
