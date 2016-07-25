@@ -15,8 +15,8 @@ permalink: /end-user/
 
 Get up to speed with these resources.
 
+*   [Office Training Center - Discover SharePoint](https://support.office.com/en-us/article/Discover-SharePoint-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US)
 *   [MS Press - Free SharePoint Books](https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/)
-*   [MS Technet End User Guides](https://technet.microsoft.com/en-us/library/jj871004.aspx)
 *   [Free Training Courses on YouTube](https://www.youtube.com/results?q=sharepoint&sp=EgIQAw%253D%253D)
 *   [lynda.com Video Training](http://www.lynda.com/SharePoint-training-tutorials/306-0.html)
 *   [VisualSP Training](https://www.visualsp.com/individual-training/)
