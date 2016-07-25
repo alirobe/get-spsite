@@ -23,7 +23,6 @@ Keep updated with these sources.
 
 *   [Todd Klindt](http://www.toddklindt.com) (Blog, Podcast, Patch Notes)
 *   [Spence Harbar](http://harbar.net/)
-*   [Todd Carter](http://todd-carter.com/)
 *   [Gary Lapointe](http://blog.falchionconsulting.com) and on [ITUnity](http://www.itunity.com/users/gary-lapointe)
 *   [Wictor Wilsen](http://www.wictorwilen.se/)
 *   [Bill Baer](http://blogs.technet.com/b/wbaer/)
