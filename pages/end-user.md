@@ -15,12 +15,12 @@ permalink: /end-user/
 
 Get up to speed with these resources.
 
-*   [Well-Reviewed Books](https://www.amazon.com/gp/bestsellers/books/6133983011/ref=zg_b_bs_6133983011_1)
 *   [MS Press - Free SharePoint Books](https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/)
+*   [Free Training Courses on YouTube](https://www.youtube.com/results?q=sharepoint&sp=EgIQAw%253D%253D)
 *   [lynda.com Video Training](http://www.lynda.com/SharePoint-training-tutorials/306-0.html)
 *   [VisualSP Training](https://www.visualsp.com/individual-training/)
 *   [GuideMeThrough Courseware](http://www.guidemethrough.com/)
-*   [YouTube](http://www.youtube.com) Video Training
+*   [Well-Reviewed Books](https://www.amazon.com/gp/bestsellers/books/6133983011/ref=zg_b_bs_6133983011_1)
 
 ## Authorities
 
