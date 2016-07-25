@@ -26,8 +26,10 @@ Get up to speed with these resources.
 
 Keep updated with these sources.
 
+*   [Office Blogs](https://blogs.office.com/)
+*   [Office Network](https://network.office.com)
 *   [icansharepoint.com](http://icansharepoint.com/)
 
 ## Guiding other Users
 
-*   See: [Planning & Adoption](/adoption)
+*   See: [Planning & Adoption](/adoption) and for Office 365, see [FastTrack](http://fasttrack.microsoft.com/office)
