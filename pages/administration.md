@@ -28,6 +28,7 @@ Keep updated with these sources.
 *   [Bill Baer](http://blogs.technet.com/b/wbaer/)
 *   [Vlad Catrinescu](https://absolute-sharepoint.com/)
 *   [Benjamin Niaulin](https://bniaulin.wordpress.com/)
+*   [Trevor Seward](https://thesharepointfarm.com/)
 *   [TechNet](http://technet.microsoft.com/en-us/library/cc303422(v=office.15).aspx)
 
 ## Roadmap
