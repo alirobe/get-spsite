@@ -49,6 +49,7 @@ Find out what's coming next.
 *   [AutoSPInstaller](http://autospinstaller.com/) (note: read the docs carefully)
 *   [ULS Log Viewer](http://www.microsoft.com/en-au/download/details.aspx?id=44020)
 *   [Powershell Builder](http://www.microsoft.com/resources/TechNet/en-us/Office/media/WindowsPowerShell/WindowsPowerShellCommandBuilder.html)
+*   [FoundationSync](https://github.com/Nauplius/FoundationSync/wiki)
 
 ### Online
 
