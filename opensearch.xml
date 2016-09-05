@@ -5,5 +5,5 @@
   <Description>get-spsite</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Url method="get" type="text/html" 
-      template="https://www.google.com/search?q={searchTerms}+site%253get-spsite.com&amp;hl=en"/>
+      template="https://www.google.com/search?q={searchTerms}+site:get-spsite.com&amp;hl=en"/>
 </OpenSearchDescription>
