@@ -10,10 +10,10 @@ get-spsite
 
 * [End-User](end-user)
 * [Administration](administration)
-* [Planning, Adoption, and ECM](planning-adoption)
-* [Design and Branding](design)
 * [Development](development)
-* [SharePoint Community](communities)
+* [Design and Branding](design)
+* [Planning, Adoption, and ECM](planning-adoption)
+* [Community](communities)
 
 ## CONTRIBUTE
 
