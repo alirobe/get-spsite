@@ -8,7 +8,7 @@ permalink: /communities/
 
 Visit these online groups.
 
-*   Official ["IT Pro Network" Yammer Community](http://aka.ms/OfficeDevPnPYammer)
+*   ~~Official ["IT Pro Network" Yammer Community](http://aka.ms/OfficeDevPnPYammer)~~
 *   Official [Office Network](https://network.office.com) (new)
 *   Official [SharePoint Uservoice](https://sharepoint.uservoice.com/)
 *   Official [SharePoint Technet Forums](http://social.technet.microsoft.com/Forums/en-US/category/sharepoint)
