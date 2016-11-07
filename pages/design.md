@@ -17,7 +17,7 @@ Get up to speed with these resources.
 Keep updated with these sources.
 
 *   [Drisgill](http://blog.drisgill.com) 
-*   [Stefan Bauer](http://n8d.at) ([gh](https://github.com/StfBauer?tab=repositories))
+*   [Stefan Bauer](http://www.n8d.at/blog/) ([gh](https://github.com/StfBauer?tab=repositories))
 *   [Waldek Mastykarz](http://blog.mastykarz.nl) & [Mavention](http://www.mavention.com/blog)
 *   [Christian Stahl](http://chrisstahl.wordpress.com)
 *   [Yaroslav Pentsarskyy](http://www.sharemuch.com)
