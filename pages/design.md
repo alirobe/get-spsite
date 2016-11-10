@@ -34,12 +34,13 @@ Use these tools.
 *   [Official Responsive UI Package for SP 2013 On-Premesis](https://dev.office.com/blogs/announcing-responsive-ui-package-for-sharepoint-on-premises-2013-2016)
 *   [CSS Chart](http://sharepointexperience.com/csschart/csschart.html)
 *   [Dev Workflow Guide by Stefan Bauer](http://www.n8d.at/blog/how-i-develop-in-sharepoint-and-office-365-now/)
+*   [A List Apart](http://alistapart.com/topics)
 *   Stock Pics: [The Envato Market](https://market.envato.com/), [FreeImages.com](http://freeimages.com), [Syncfusion Metro Studio](https://www.syncfusion.com/downloads/metrostudio) / [Icons8](https://icons8.com/)
 *   Code snippets: [The Awesome Lists](https://github.com/sindresorhus/awesome)
 
 ## Inspiration
 
-Borrow these ideas.
+Ideas.
 
 *   [topsharepoint.com](http://www.topsharepoint.com/)
 *   [builtwith.com](http://builtwith.com/)
