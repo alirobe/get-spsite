@@ -10,12 +10,19 @@ permalink: /development/
 Get up to speed with these resources.
 
 *   [Office Dev Centre](http://dev.office.com/)
+*   [Get Started with Office PnP](https://channel9.msdn.com/blogs/OfficeDevPnP/PnP-Web-Cast-How-to-get-started-with-Office-Dev-PnP)
+*   [Pluralsight](http://pluralsight.net) & [Lynda](http://lynda.com)
 *   [Channel9 Videos](http://channel9.msdn.com/Tags/sharepoint)
-*   [Pluralsight Training](http://pluralsight.net)
-*   [Office 365 Patterns and Practices](https://github.com/OfficeDev/PnP)
-*   [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint) - [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 
-## Authorities 
+# Code
+
+Use these as to provide a baseline for your project.
+
+*   [https://github.com/OfficeDev](OfficeDev Repos) and [Resources](https://dev.office.com/patterns-and-practices-resources)
+*   List: [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
+*   List: [Awesome .NET](https://github.com/quozd/awesome-dotnet)
+
+## Authorities
 
 Keep updated with these sources.
 
