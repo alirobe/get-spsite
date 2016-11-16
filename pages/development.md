@@ -18,7 +18,7 @@ Get up to speed with these resources.
 
 Use these as to provide a baseline for your project.
 
-*   [https://github.com/OfficeDev](OfficeDev Repos) and [Resources](https://dev.office.com/patterns-and-practices-resources)
+*   [OfficeDev Repos](https://github.com/OfficeDev) and [Resources](https://dev.office.com/patterns-and-practices-resources)
 *   List: [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
 *   List: [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 
