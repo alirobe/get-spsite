@@ -43,7 +43,8 @@ Find out what's coming next.
 
 *   [Patterns and Practices Tools](https://github.com/OfficeDev/PnP-Tools)
 *   [SharePoint Manager](http://spm.codeplex.com/)
-*   http://powershell.office.com
+*   [powershell.office.com](https://powershell.office.com)
+*   [SPDocKit](http://www.spdockit.com/)
 
 ### On-Prem
 
