@@ -24,6 +24,13 @@ Keep updated with these sources.
 *   [Marc Anderson - Sympmarc](http://sympmarc.com)
 *   [John Vicary - SharePointBytes](http://sharepointbytes.com/)
 
+## Software
+
+*   [SharePointReviews.com](http://www.sharepointreviews.com/)
+*   [OnePlaceSolutions](http://oneplacesolutions.com)
+*   [Bind Tuning Templates](http://bindtuning.com/)
+*   See also: [administration - migration tools](/administration)
+
 ## Industry Blogs
 
 *   [The Manual](http://themanual.org)
