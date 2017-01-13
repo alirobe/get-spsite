@@ -23,6 +23,7 @@ Keep updated with these sources.
 *   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
 *   [Marc Anderson - Sympmarc](http://sympmarc.com)
 *   [John Vicary - SharePointBytes](http://sharepointbytes.com/)
+*   [Steve Goodyear](https://stevegoodyear.wordpress.com/)
 
 ## Software
 
