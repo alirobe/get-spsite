@@ -22,6 +22,10 @@ Use these as to provide a baseline for your project.
 *   List: [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
 *   List: [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 
+# Tools
+
+* [SP Editor](https://www.reddit.com/r/sharepoint/comments/677cq0/sp_editor_this_chrome_extension_adds_a_sharepoint/)
+
 ## Authorities
 
 Keep updated with these sources.
