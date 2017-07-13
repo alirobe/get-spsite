@@ -32,7 +32,7 @@ Keep updated with these sources.
 *   [SharePointReviews.com](http://www.sharepointreviews.com/)
 *   [OnePlaceSolutions](http://oneplacesolutions.com)
 *   [Bind Tuning Templates](http://bindtuning.com/)
-*   [Piwik](http://piwik.org), [Angelfish](http://analytics.angelfishstats.com/), [Google Analytics](https://analytics.google.com/analytics/web/), [Hotjar](http://www.hotjar.com/)
+*   [Piwik](http://piwik.org), [Angelfish](http://analytics.angelfishstats.com/), [HarePoint Analytics](https://www.harepoint.com/Products/HarePointAnalyticsForSharePoint/Default.aspx), [Google Analytics](https://analytics.google.com/analytics/web/), [Hotjar](http://www.hotjar.com/)
 *   See also: [administration - migration tools](/administration)
 
 ## Industry Blogs
