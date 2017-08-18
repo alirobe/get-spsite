@@ -8,6 +8,7 @@ permalink: /administration/
 
 Get up to speed with these resources.
 
+*   [office.com/it](//office.com/it)
 *   [Lynda SharePoint Training](http://www.lynda.com/in/SharePoint)
 *   [Microsoft Virtual Academy](https://mva.microsoft.com/)
 *   [CBTNuggets on SharePoint](https://www.cbtnuggets.com/search?q=sharepoint)
