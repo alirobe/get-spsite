@@ -16,7 +16,7 @@ Get up to speed with these resources.
 *   [Channel9 Videos](http://channel9.msdn.com/Tags/sharepoint)
 *   [Pluralsight](http://pluralsight.net) & [Lynda](http://lynda.com)
 
-# Code
+## Code
 
 Use these as to provide a baseline for your project.
 
@@ -24,15 +24,15 @@ Use these as to provide a baseline for your project.
 *   List: [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
 *   List: [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 
-# Tools
+## Tools
 
 * [SP Editor](https://www.reddit.com/r/sharepoint/comments/677cq0/sp_editor_this_chrome_extension_adds_a_sharepoint/)
 
-# Sanity Check
+## Sanity Check
 
 *   [Rencore SharePoint Customizations Guide](https://rencore.com/sharepoint-customizations-guide/) & [SPCAF](https://rencore.com)
 
-# Authorities
+## Authorities
 
 Keep updated with these sources.
 
