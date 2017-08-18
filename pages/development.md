@@ -32,7 +32,7 @@ Use these as to provide a baseline for your project.
 
 *   [Rencore SharePoint Customizations Guide](https://rencore.com/sharepoint-customizations-guide/) & [SPCAF](https://rencore.com)
 
-## Authorities
+# Authorities
 
 Keep updated with these sources.
 
