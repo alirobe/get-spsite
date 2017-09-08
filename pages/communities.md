@@ -16,6 +16,7 @@ Visit these online groups.
 *   [SharePoint subreddit](https://sharepoint.reddit.com)
 *   [Office 365 subreddit](https://office365.reddit.com)
 *   Twitter: [#SharePoint](https://twitter.com/search?q=%23sharepoint) [#sphelp](https://twitter.com/search?q=%23sphelp) ([@alirobe's influencer list](https://twitter.com/alirobe/lists/sharepoint-influencers/members))
+*   Various LinkedIn Groups
 
 ## Conferences
 
@@ -37,6 +38,7 @@ Keep up to date with these feeds.
 *   [Todd Klindt’s SharePoint Netcast](http://www.toddklindt.com/netcast/default.aspx)
 *   [Microsoft Cloud Show](http://www.microsoftcloudshow.com/)
 *   [CollabShow](http://www.collabshow.com/)
+*   [Hyperfish Podcast](https://blog.hyperfish.com/tagged/podcast)
 *   [SharePoint Pro Mag](http://sharepointpromag.com/)
 *   [Medium: SharePoint](https://medium.com/tag/sharepoint)
 *   [CMSWire.com](http://www.cmswire.com/)
