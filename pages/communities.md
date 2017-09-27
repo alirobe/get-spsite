@@ -12,6 +12,7 @@ Visit these online groups.
 *   Official [Office Network](https://techcommunity.microsoft.com/t5/Communities/ct-p/communities) (new)
 *   Official [SharePoint Uservoice](https://sharepoint.uservoice.com/)
 *   Official [SharePoint Technet Forums](http://social.technet.microsoft.com/Forums/en-US/category/sharepoint)
+*   [Collab365.community](https://collab365.community/)
 *   [SharePoint Stack Exchange](http://sharepoint.stackexchange.com/)
 *   [SharePoint subreddit](https://sharepoint.reddit.com)
 *   [Office 365 subreddit](https://office365.reddit.com)
