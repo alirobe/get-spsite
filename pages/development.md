@@ -27,6 +27,7 @@ Use these as to provide a baseline for your project.
 ## Tools
 
 * [SP Editor](https://www.reddit.com/r/sharepoint/comments/677cq0/sp_editor_this_chrome_extension_adds_a_sharepoint/)
+* [CAML Designer](http://www.camldesigner.com/)
 
 ## Sanity Check
 
