@@ -46,6 +46,7 @@ Find out what's coming next.
 *   [SharePoint Manager](http://spm.codeplex.com/)
 *   [powershell.office.com](http://powershell.office.com/script-samples)
 *   [SPDocKit](http://www.spdockit.com/)
+*   [Katalon](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid) browser automation
 
 ### On-Prem
 
