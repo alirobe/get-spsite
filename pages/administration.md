@@ -16,7 +16,7 @@ Get up to speed with these resources.
 *   [Well-Reviewed Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+administration&sprefix=sharepoint+administration%2Caps%2C910)
 *   [Ch9 SharePoint Videos](https://channel9.msdn.com/Tags/sharepoint?sort=viewed)
 *   [MS Technet Virtual Labs](https://technet.microsoft.com/en-us/virtuallabs/bb467605.aspx)
-*   [Cloudshare Virtual Labs](https://www.cloudshare.com)
+*   [List of Office 365 Security Resources](https://practical365.com/office-365-security-resources/)
 
 ## Authorities 
 
