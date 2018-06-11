@@ -19,12 +19,11 @@ Get up to speed with these resources.
 
 Keep updated with these sources.
 
-*   [SharePoint Pro Mag](http://sharepointpromag.com)
-*   [James Robertson - Step Two / Column Two](http://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
-*   [Michael Sampson - Currents](http://michaelsampson.net/currents/)
+*   [SharePoint Pro Mag](http://www.itprotoday.com/collaboration/microsoft-sharepoint)
+*   [James Robertson - Step Two / Column Two](https://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
+*   [Michael Sampson - Currents](https://michaelsampson.net/currents/)
 *   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
 *   [Marc Anderson - Sympmarc](http://sympmarc.com)
-*   [John Vicary - SharePointBytes](http://sharepointbytes.com/)
 *   [Steve Goodyear](https://stevegoodyear.wordpress.com/)
 
 ## Software
