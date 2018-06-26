@@ -23,7 +23,7 @@ Keep updated with these sources.
 *   [Rencore blog (Many influncers! Waldek Mastykarz, Tobias Zimmergren, and more)](https://rencore.com/blog/)
 *   [AvePoint blog (Many influencers)](https://www.avepoint.com/blog/manage/)
 *   [Sharegate blog (Benjamin Niaulin)](https://en.share-gate.com/blog)
-*   [ContentPanda blog (Heather Solomon))[https://www.contentpanda.com/blog/]
+*   [ContentPanda blog (Heather Solomon)](https://www.contentpanda.com/blog/)
 *   [Step Two blog (James Robertson)](https://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
 *   [Michael Sampson - Currents](https://michaelsampson.net/currents/)
 *   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
