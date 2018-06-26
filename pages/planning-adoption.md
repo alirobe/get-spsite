@@ -14,13 +14,17 @@ Get up to speed with these resources.
     *   [Adoption Guide](http://download.microsoft.com/download/F/6/5/F65D8AB6-772F-400B-8982-7D6439FA7D9B/Sharepoint_Adoption_Guide.pdf)
 *   [Well-Reviewed Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+governance&sprefix=sharepoint+governance%2Caps%2C910)
 *   [Why two in three SharePoint Projects Fail](http://info.aiim.org/connecting-and-optimizing-sharepoint)
+*   [ShareGate: Build a real-world SharePoint governance plan](https://en.share-gate.com/blog/real-world-sharepoint-governance-plan)
 
 ## Authorities
 
 Keep updated with these sources.
 
-*   [Sharegate blog](https://en.share-gate.com/blog)
-*   [James Robertson - Step Two / Column Two](https://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
+*   [AvePoint blog](https://www.avepoint.com/blog/manage/)
+*   [Sharegate blog  (Benjamin Niaulin)](https://en.share-gate.com/blog)
+*   [Rencore blog (Christian Buckley, Waldek Mastykarz, and more)](https://rencore.com/blog/)
+*   [ContentPanda blog (Heather Solomon))[https://www.contentpanda.com/blog/]
+*   [Step Two blog (James Robertson)](https://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
 *   [Michael Sampson - Currents](https://michaelsampson.net/currents/)
 *   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
 *   [Marc Anderson - Sympmarc](http://sympmarc.com)
