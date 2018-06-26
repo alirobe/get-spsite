@@ -3,7 +3,7 @@ layout: default
 permalink: /planning-adoption/
 ---
 
-# Resources for Professionals working in the adoption and planning of Intranets.
+# Governance, Information Architecture, Planning, and Adoption
 
 ## Official / Useful Training
 
@@ -19,12 +19,13 @@ Get up to speed with these resources.
 
 Keep updated with these sources.
 
-*   [SharePoint Pro Mag](http://www.itprotoday.com/collaboration/microsoft-sharepoint)
+*   [Sharegate blog](https://en.share-gate.com/blog)
 *   [James Robertson - Step Two / Column Two](https://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
 *   [Michael Sampson - Currents](https://michaelsampson.net/currents/)
 *   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
 *   [Marc Anderson - Sympmarc](http://sympmarc.com)
 *   [Steve Goodyear](https://stevegoodyear.wordpress.com/)
+*   [SharePoint Pro Mag](http://www.itprotoday.com/collaboration/microsoft-sharepoint)
 
 ## Software
 
