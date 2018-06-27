@@ -24,12 +24,14 @@ Keep updated with these sources.
 *   [AvePoint blog (Many influencers)](https://www.avepoint.com/blog/manage/)
 *   [Sharegate blog (Benjamin Niaulin)](https://en.share-gate.com/blog)
 *   [ContentPanda blog (Heather Solomon)](https://www.contentpanda.com/blog/)
+*   [OrigamiConnect blog (Yaroslav Pentarskyy)](https://www.origamiconnect.com/articles)
 *   [Step Two blog (James Robertson)](https://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
 *   [Michael Sampson - Currents](https://michaelsampson.net/currents/)
 *   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
 *   [Marc Anderson - Sympmarc](http://sympmarc.com)
 *   [Steve Goodyear](https://stevegoodyear.wordpress.com/)
 *   [SharePoint Pro Mag](http://www.itprotoday.com/collaboration/microsoft-sharepoint)
+*   [German - Leifwolf blog (Christian Glessner of iLoveSharePoint)](https://blog.leitwolf.io/)
 
 ## Software
 
