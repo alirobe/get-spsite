@@ -30,9 +30,6 @@ Keep updated with these sources.
 *   [Michael Sampson - Currents](https://michaelsampson.net/currents/)
 *   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
 *   [Marc Anderson - Sympmarc](http://sympmarc.com)
-*   [Steve Goodyear](https://stevegoodyear.wordpress.com/)
-*   [SharePoint Pro Mag](http://www.itprotoday.com/collaboration/microsoft-sharepoint)
-*   [German - Leifwolf blog (Christian Glessner of iLoveSharePoint)](https://blog.leitwolf.io/)
 *   [(my inoreader feed bundle of above)](https://www.inoreader.com/bundle/0014cd63c8f5)
 
 ## Software
