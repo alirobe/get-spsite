@@ -20,6 +20,7 @@ Get up to speed with these resources.
 
 Keep updated with these sources.
 
+
 *   [Rencore blog (Many influncers! Waldek Mastykarz, Tobias Zimmergren, and more)](https://rencore.com/blog/)
 *   [AvePoint blog (Many influencers)](https://www.avepoint.com/blog/manage/)
 *   [Sharegate blog (Benjamin Niaulin)](https://en.share-gate.com/blog)
@@ -32,6 +33,7 @@ Keep updated with these sources.
 *   [Steve Goodyear](https://stevegoodyear.wordpress.com/)
 *   [SharePoint Pro Mag](http://www.itprotoday.com/collaboration/microsoft-sharepoint)
 *   [German - Leifwolf blog (Christian Glessner of iLoveSharePoint)](https://blog.leitwolf.io/)
+*   [(my inoreader feed bundle of above)](https://www.inoreader.com/bundle/0014cd63c8f5)
 
 ## Software
 
