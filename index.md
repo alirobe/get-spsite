@@ -11,7 +11,7 @@ get-spsite
 * [Power-User](power-user)
 * [ECM, Planning and Adoption](planning-adoption)
 * [Administration](administration)
-* [Development](spfx-ux)
+* [Development](development)
 * [Community](communities)
 
 ## CONTRIBUTE
