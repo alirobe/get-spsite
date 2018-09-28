@@ -8,11 +8,10 @@ get-spsite
 
 ## PATHS
 
-* [End-User](end-user)
+* [Power-User](power-user)
+* [ECM, Planning and Adoption](planning-adoption)
 * [Administration](administration)
-* [Development](development)
-* [Design and Branding](design)
-* [Planning, Adoption, and ECM](planning-adoption)
+* [Development](spfx-ux)
 * [Community](communities)
 
 ## CONTRIBUTE

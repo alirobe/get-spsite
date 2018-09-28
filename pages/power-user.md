@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /end-user/
+permalink: /power-user/
 ---
 # Resources for SharePoint and Office 365 End-Users
 
