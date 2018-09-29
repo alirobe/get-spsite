@@ -15,6 +15,36 @@ permalink: /development/
 *   [SP Editor](https://www.reddit.com/r/sharepoint/comments/677cq0/sp_editor_this_chrome_extension_adds_a_sharepoint/)
 *   [CAML Designer](http://www.camldesigner.com/)
 
+## Code
+
+*   [OfficeDev Repos](https://github.com/OfficeDev) & [Resource List](https://dev.office.com/patterns-and-practices-resources)
+*   [SharePoint Repos](https://github.com/sharepoint) & [PnP](https://github.com/SharePoint/PnP)
+*   Code snippets: [The Awesome Lists](https://github.com/sindresorhus/awesome)
+    *   List: [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
+    *   List: [Awesome .NET](https://github.com/quozd/awesome-dotnet)
+
+## Testing & Dev Tools
+
+*   [Rencore SharePoint Customizations Guide](https://rencore.com/sharepoint-customizations-guide/) & [SPCAF](https://rencore.com)
+*   [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en)
+*   More at this [reddit thread](https://www.reddit.com/r/sharepoint/comments/3xur5o/useful_sharepoint_dev_tools/)
+
+## Frameworks and Packaged solutions
+
+*   **[PnP Modern Starter Kit](https://github.com/SharePoint/sp-starter-kit) (365 only)**
+*   **[PnP Starter Intranet](https://github.com/SharePoint/PnP/tree/master/Solutions/Business.StarterIntranet) (2016+)**
+*   **[PnP SPFx Webparts](https://github.com/SharePoint/sp-dev-fx-webparts)**
+*   [Apptex for SharePoint](http://spapptex.com/) (free)
+*   [Bind Tuning](http://bindtuning.com) (free/paid)
+*   [Bonzai](http://bonzai-intranet.com/)
+*   [ElevatePoint](http://elevatepoint.com/)
+*   [Unily](https://www.unily.com/)
+*   [Sproket](https://sproket.co)
+*   [Valo](https://www.valointranet.com)
+*   [Wizdom](http://www.wizdom-intranet.com/)
+*   [Vendor comparison (neutral) - Clearbox](https://www.clearbox.co.uk/portfolio-item/sharepoint-intranets-in-a-box-report-2018/)
+*   [Vendor selection guidance (neutral) - StepTwo](http://www.steptwo.com.au/papers/out-of-the-box-intranet-solution/)
+
 ## Bloggers
 
 *   MVP [Andrew Connell](http://www.andrewconnell.com/) ([github](https://github.com/andrewconnell))
@@ -33,37 +63,6 @@ permalink: /development/
 *   MVP [Wictor Wilen](http://www.wictorwilen.se/)
 *   MVP [Yaroslav Pentsarskyy](https://www.origamiconnect.com/articles)
 *   Find more at the list of [Microsoft MVPs here](https://mvp.microsoft.com/en-us/MvpSearch?ex=Office+Servers+and+Services)…
-
-## Code
-
-*   [OfficeDev Repos](https://github.com/OfficeDev) & [Resource List](https://dev.office.com/patterns-and-practices-resources)
-*   [SharePoint Repos](https://github.com/sharepoint) & [PnP](https://github.com/SharePoint/PnP)
-*   Code snippets: [The Awesome Lists](https://github.com/sindresorhus/awesome)
-    *   List: [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
-    *   List: [Awesome .NET](https://github.com/quozd/awesome-dotnet)
-
-## Testing & Dev Tools
-
-*   [Rencore SharePoint Customizations Guide](https://rencore.com/sharepoint-customizations-guide/) & [SPCAF](https://rencore.com)
-*   [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en)
-*   More at this [reddit thread](https://www.reddit.com/r/sharepoint/comments/3xur5o/useful_sharepoint_dev_tools/)
-
-
-## Frameworks and Packaged solutions
-
-*   **[PnP Modern Starter Kit](https://github.com/SharePoint/sp-starter-kit) (365 only)**
-*   **[PnP Starter Intranet](https://github.com/SharePoint/PnP/tree/master/Solutions/Business.StarterIntranet) (2016+)**
-*   **[PnP SPFx Webparts](https://github.com/SharePoint/sp-dev-fx-webparts)**
-*   [Apptex for SharePoint](http://spapptex.com/) (free)
-*   [Bind Tuning](http://bindtuning.com) (free/paid)
-*   [Bonzai](http://bonzai-intranet.com/)
-*   [ElevatePoint](http://elevatepoint.com/)
-*   [Unily](https://www.unily.com/)
-*   [Sproket](https://sproket.co)
-*   [Valo](https://www.valointranet.com)
-*   [Wizdom](http://www.wizdom-intranet.com/)
-*   [Vendor comparison (neutral) - Clearbox](https://www.clearbox.co.uk/portfolio-item/sharepoint-intranets-in-a-box-report-2018/)
-*   [Vendor selection guidance (neutral) - StepTwo](http://www.steptwo.com.au/papers/out-of-the-box-intranet-solution/)
 
 ## Ideas
 
