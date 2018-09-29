@@ -47,7 +47,7 @@ Get up to speed with these resources.
 *   [Patterns and Practices: Tools](https://github.com/OfficeDev/PnP-Tools)
 *   [Powershell Guide](https://docs.microsoft.com/en-us/powershell/sharepoint)
 *   [SPDocKit](http://www.spdockit.com/)
-*   [SP Insider](https://chrome.google.com/webstore/detail/sp-insider/gjckpigahcbffmeofjfedlffddhfidhj?hl=en) or [SharePoint Manager](http://spm.codeplex.com/)
+*   [SP Insider](https://chrome.google.com/webstore/detail/sp-insider/gjckpigahcbffmeofjfedlffddhfidhj?hl=en) or [SharePoint Client Browser](https://github.com/bramdejager/spcb)
 
 ### On-Prem
 
