@@ -9,6 +9,7 @@ permalink: /planning-adoption/
 
 Get up to speed with these resources.
 
+*   [Periodic Table of Office 365](https://periodictableofoffice365.azureedge.net/)
 *   [Office 365 Success Centre](http://fasttrack.microsoft.com/office) 
     *   [Adoption Resources & Templates](http://fasttrack.microsoft.com/office/drive-value/engage)
     *   [Adoption Guide](http://download.microsoft.com/download/F/6/5/F65D8AB6-772F-400B-8982-7D6439FA7D9B/Sharepoint_Adoption_Guide.pdf)
