@@ -15,8 +15,8 @@ permalink: /power-user/
 
 Get up to speed with these resources.
 
-*   [SharePoint Online's Video-enhanced Official Training](https://support.office.com/en-us/article/Discover-SharePoint-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US)
-*   [LinkedIn Learning Video Training] (better for on-prem) (https://www.linkedin.com/learning/topics/sharepoint)
+*   [SharePoint Online's Video-enhanced Official Training](https://support.office.com/en-us/article/Discover-SharePoint-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US) (better for 365)
+*   [LinkedIn Learning Video Training](https://www.linkedin.com/learning/topics/sharepoint) (better for on-prem) 
 *   [Microsoft Mechanics Youtube Series](https://www.youtube.com/user/OfficeGarageSeries)
 *   [Free Training Courses on YouTube](https://www.youtube.com/results?q=sharepoint&sp=EgIQAw%253D%253D)
 *   [MS Press - Free SharePoint Books](https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/)
