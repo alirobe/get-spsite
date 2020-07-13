@@ -12,7 +12,8 @@ Get up to speed with these resources.
 *   [Periodic Table of Office 365](https://www.jumpto365.com/tables/en)
 *   [Office 365 Success Centre](http://fasttrack.microsoft.com/office) 
     *   [Adoption Resources & Templates](http://fasttrack.microsoft.com/office/drive-value/engage)
-    *   [Adoption Guide](http://download.microsoft.com/download/F/6/5/F65D8AB6-772F-400B-8982-7D6439FA7D9B/Sharepoint_Adoption_Guide.pdf)
+    *   [Adoption Guide](http://download.microsoft.com/download/F/6/5/F65D8AB6-772F-400B-8982-7D6439FA7D9B/Sharepoint_Adoption_Guide.pdf)'
+*   [MS 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/)
 *   [Well-Reviewed Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+governance&sprefix=sharepoint+governance%2Caps%2C910)
 *   [Why two in three SharePoint Projects Fail](http://info.aiim.org/connecting-and-optimizing-sharepoint)
 *   [ShareGate: Build a real-world SharePoint governance plan](https://en.share-gate.com/blog/real-world-sharepoint-governance-plan)
