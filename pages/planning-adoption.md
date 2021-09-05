@@ -37,7 +37,6 @@ Keep updated with these sources.
 *   [MS Partner Directory](https://www.microsoft.com/en-us/solution-providers/)
 *   [OneDriveMapper](http://www.lieben.nu/liebensraum/onedrivemapper/)
 *   [ShareGate](https://www.sharegate.com)
-*   [Sproket](http://sproket.co/) (my employer)
 *   See also: [administration - migration tools](/administration)
 
 ## Industry Blogs + Communities
