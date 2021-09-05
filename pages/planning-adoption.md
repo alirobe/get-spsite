@@ -10,9 +10,7 @@ permalink: /planning-adoption/
 Get up to speed with these resources.
 
 *   [Periodic Table of Office 365](https://www.jumpto365.com/tables/en)
-*   [Office 365 Success Centre](http://fasttrack.microsoft.com/office) 
-    *   [Adoption Resources & Templates](http://fasttrack.microsoft.com/office/drive-value/engage)
-    *   [Adoption Guide](http://download.microsoft.com/download/F/6/5/F65D8AB6-772F-400B-8982-7D6439FA7D9B/Sharepoint_Adoption_Guide.pdf)'
+*   [MS 365 Adoption Centre](https://adoption.microsoft.com/) 
 *   [MS 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/)
 *   [Well-Reviewed Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+governance&sprefix=sharepoint+governance%2Caps%2C910)
 *   [Why two in three SharePoint Projects Fail](http://info.aiim.org/connecting-and-optimizing-sharepoint)
@@ -22,33 +20,32 @@ Get up to speed with these resources.
 
 Keep updated with these sources.
 
-
+*   [Official SP Blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog) (+ Podcasts / YouTubes)
+*   [Official MS 365 Blog](https://www.microsoft.com/en-au/microsoft-365/blog/) (+ Podcasts / YouTubes)
 *   [Rencore blog (Many influncers! Waldek Mastykarz, Tobias Zimmergren, and more)](https://rencore.com/blog/)
 *   [AvePoint blog (Many influencers)](https://www.avepoint.com/blog/manage/)
 *   [Sharegate blog (Benjamin Niaulin)](https://en.share-gate.com/blog)
 *   [ContentPanda blog (Heather Solomon)](https://www.contentpanda.com/blog/)
+*   [Step Two blog (James Robertson)](https://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr)) + Intranet Awards
+*   [NN Group Intranet Awards](https://www.nngroup.com/articles/intranet-design/)
 *   [OrigamiConnect blog (Yaroslav Pentarskyy)](https://www.origamiconnect.com/articles)
-*   [Step Two blog (James Robertson)](https://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr))
-*   [Michael Sampson - Currents](https://michaelsampson.net/currents/)
-*   [Paul Culmsee – Clever Workarounds](http://www.cleverworkarounds.com/)
 *   [Marc Anderson - Sympmarc](http://sympmarc.com)
-*   [(my inoreader feed bundle of above)](https://www.inoreader.com/bundle/0014cd63c8f5)
 
-## Software
+## Software / Tools
 
-*   [SharePointReviews.com](http://www.sharepointreviews.com/)
-*   [OnePlaceSolutions](http://oneplacesolutions.com)
-*   [Bind Tuning Templates](http://bindtuning.com/)
+*   [MS Partner Directory](https://www.microsoft.com/en-us/solution-providers/)
 *   [OneDriveMapper](http://www.lieben.nu/liebensraum/onedrivemapper/)
-*   [Piwik](http://piwik.org), [Angelfish](http://analytics.angelfishstats.com/), [HarePoint Analytics](https://www.harepoint.com/Products/HarePointAnalyticsForSharePoint/Default.aspx), [Google Analytics](https://analytics.google.com/analytics/web/), [Hotjar](http://www.hotjar.com/)
+*   [ShareGate](https://www.sharegate.com)
+*   [Sproket](http://sproket.co/) (my employer)
 *   See also: [administration - migration tools](/administration)
 
-## Industry Blogs
+## Industry Blogs + Communities
 
-*   [The Manual](http://themanual.org)
+*   [Collab365](https://collab365.com/)
+*   [/r/sharepoint](https://sharepoint.reddit.com)
+*   [/r/microsoft365](https://microsoft365.reddit.com/)
 *   [IT Unity](https://www.itunity.com/)
 *   [TechTarget](http://searchcontentmanagement.techtarget.com/)
 *   [Gartner Blogs - Craig Roth](http://blogs.gartner.com/craig-roth)
-*   [Brightstarr](http://www.brightstarr.com/Sharepoint-Technology-and-Application-Insights?cat=Business%20Value)
 *   [21 Apps](http://www.21apps.com/blog/)
-*   [Professional Advantage](http://blog.pa.com.au/category/sharepoint-2/)
+*   SPTechCon
