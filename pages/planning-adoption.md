@@ -22,6 +22,7 @@ Keep updated with these sources.
 
 *   [Official SP Blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog) (+ Podcasts / YouTubes)
 *   [Official MS 365 Blog](https://www.microsoft.com/en-au/microsoft-365/blog/) (+ Podcasts / YouTubes)
+*   [JumpTo365](https://www.jumpto365.com/blog) ([YouTube](https://www.youtube.com/channel/UCYGPjbW66h40L4dOt2N_kyw))
 *   [Rencore blog (Many influncers! Waldek Mastykarz, Tobias Zimmergren, and more)](https://rencore.com/blog/)
 *   [AvePoint blog (Many influencers)](https://www.avepoint.com/blog/manage/)
 *   [Sharegate blog (Benjamin Niaulin)](https://en.share-gate.com/blog)
