@@ -31,6 +31,7 @@ Keep updated with these sources.
 *   [NN Group Intranet Awards](https://www.nngroup.com/articles/intranet-design/)
 *   [OrigamiConnect blog (Yaroslav Pentarskyy)](https://www.origamiconnect.com/articles)
 *   [Marc Anderson - Sympmarc](http://sympmarc.com)
+*   [Gartner Blogs - Craig Roth](http://blogs.gartner.com/craig-roth)
 
 ## Software / Tools
 
@@ -46,6 +47,4 @@ Keep updated with these sources.
 *   [/r/microsoft365](https://microsoft365.reddit.com/)
 *   [IT Unity](https://www.itunity.com/)
 *   [TechTarget](http://searchcontentmanagement.techtarget.com/)
-*   [Gartner Blogs - Craig Roth](http://blogs.gartner.com/craig-roth)
-*   [21 Apps](http://www.21apps.com/blog/)
 *   SPTechCon
