@@ -31,6 +31,8 @@ Keep updated with these sources.
 *   [Office Blogs](https://blogs.office.com/)
 *   [Office Network](https://network.office.com)
 *   [icansharepoint.com](http://icansharepoint.com/)
+*   PowerAutomate: [WonderLaura](https://www.youtube.com/c/Wonderlaura)
+*   PowerShell/PowerApps: [Shane Young](https://www.youtube.com/c/ShaneYoungCloud) 
 
 ## Guiding other Users
 
