@@ -19,10 +19,10 @@ Get up to speed with these resources.
 *   [LinkedIn Learning Video Training](https://www.linkedin.com/learning/topics/sharepoint) (better for on-prem) 
 *   [Free Training Courses on YouTube](https://www.youtube.com/results?q=sharepoint&sp=EgIQAw%253D%253D)
 *   Channels: [Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries), [Office Videos](https://www.youtube.com/user/officevideos/videos) (keep up to date with 365)
-*   [MS Press - Free SharePoint Books](https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/)
+*   [SharePoint Lookbook](https://lookbook.microsoft.com/)
 *   [Productive Sharepoint Collaboration - Free Book](https://stevegoodyear.wordpress.com/end-user-training-guide/)
-*   [VisualSP Training](https://www.visualsp.com/individual-training/)
 *   [Well-Reviewed Books](https://www.amazon.com/gp/bestsellers/books/6133983011/ref=zg_b_bs_6133983011_1)
+*   [MS Press - Free SharePoint Books](https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/)
 
 ## Authorities
 
@@ -33,6 +33,7 @@ Keep updated with these sources.
 *   [icansharepoint.com](http://icansharepoint.com/)
 *   PowerAutomate: [WonderLaura](https://www.youtube.com/c/Wonderlaura)
 *   PowerShell/PowerApps: [Shane Young](https://www.youtube.com/c/ShaneYoungCloud) 
+*   [Marc D Anderson's blog](https://sympmarc.com/)
 
 ## Guiding other Users
 
