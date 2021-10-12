@@ -9,17 +9,28 @@ permalink: /administration/
 Get up to speed with these resources.
 
 *   [SharePoint Docs](https://docs.microsoft.com/en-us/sharepoint)
-*   [office.com/it](//office.com/it)
-*   [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+*   [Microsoft Learn: Certificate Learning Paths](https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification)
 *   [Channel 9: Videos](https://channel9.msdn.com/Tags/sharepoint)
+*   [Youtube: Microsoft Mechanics](https://www.youtube.com/channel/UCJ9905MRHxwLZ2jeNQGIWxA)
 *   [Free Books from Microsoft Press](https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/)
 *   [Well-Reviewed Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+administration&sprefix=sharepoint+administration%2Caps%2C910)
 *   [LinkedIn Learning: SharePoint](https://www.linkedin.com/learning/search?keywords=sharepoint)
-*   [CBTNuggets: SharePoint](https://www.cbtnuggets.com/search?q=sharepoint)
-*   [MS Technet Virtual Labs](https://technet.microsoft.com/en-us/virtuallabs/bb467605.aspx)
 *   [List of Office 365 Security Resources](https://practical365.com/office-365-security-resources/)
 
+## Product roadmap, cloud updates
+
+Keep up to date withproduct  changes.
+
+*   [Microsoft 365 Roadmap](https://www.microsoft.com/en-au/microsoft-365/roadmap?)
+*   [SharePoint Team Blog](http://blogs.office.com/sharepoint/)
+*   [Ignite Conf](https://www.microsoft.com/en-us/ignite) (particularly Jeff Teper keynotes)
+*   [IntraZone Podcast](https://intrazone.libsyn.com/)
+*   [PnP Community Calls](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w/videos)
+*   Also worth keep up with the [community](/communities)...
+
 ## Authorities (not definitive)
+
+Hone how you apply your skills.
 
 *   **[SharePoint Community Blog](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/bg-p/SPBlog)**
 *   MVP    [Benjamin Niaulin](https://bniaulin.wordpress.com/) and on [ShareGate blog](https://en.share-gate.com/blog)
@@ -30,24 +41,13 @@ Get up to speed with these resources.
 *   MVP    [Todd Klindt](http://www.toddklindt.com) (Blog, Podcast, Patch Notes)
 *   MVP    [Trevor Seward](https://thesharepointfarm.com/)
 *   MVP    [Vlad Catrinescu](https://absolute-sharepoint.com/)
-
-## Product roadmap, cloud updates
-
-
-*   [Microsoft 365 Roadmap](https://www.microsoft.com/en-au/microsoft-365/roadmap?)
-*   [SharePoint Team Blog](http://blogs.office.com/sharepoint/)
-*   [Ignite Conf](https://www.microsoft.com/en-us/ignite) (particularly Jeff Teper keynotes)
-*   [IntraZone Podcast](https://intrazone.libsyn.com/)
-*   [PnP Community Calls](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w/videos)
-*   Also worth keep up with the [community](/communities)...
-
 ## Admin toolkit 
 
 *   [Patterns and Practices: Powershell Modules](https://www.powershellgallery.com/packages?q=sharepoint)
 *   [Patterns and Practices: Tools](https://github.com/OfficeDev/PnP-Tools)
 *   [Powershell Guide](https://docs.microsoft.com/en-us/powershell/sharepoint)
 *   [SPDocKit](http://www.spdockit.com/)
-*   [SP Insider](https://chrome.google.com/webstore/detail/sp-insider/gjckpigahcbffmeofjfedlffddhfidhj?hl=en) or [SharePoint Client Browser](https://github.com/bramdejager/spcb)
+*   Chrome Extensions: [SP Insider](https://chrome.google.com/webstore/detail/sp-insider/gjckpigahcbffmeofjfedlffddhfidhj?hl=en) and [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en)
 
 ### On-Prem
 
@@ -55,6 +55,7 @@ Get up to speed with these resources.
 *   [AutoSPInstaller](http://autospinstaller.com/) (note: read the docs carefully)
 *   [ULS Log Viewer](http://www.microsoft.com/en-au/download/details.aspx?id=44020)
 *   [SharePointUpdates.com](https://sharepointupdates.com/)
+*   [SharePoint Client Browser](https://github.com/bramdejager/spcb)
 
 ### Migration + Backup Vendors
 
@@ -75,7 +76,6 @@ Note: vendor listings are alphabetical.
 
 ## Client software
 
-*   [Harmon.ie](https://harmon.ie/)
 *   **[OneDrive Files on Demand](https://support.office.com/en-us/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)**
 *   [OneDriveMapper](https://www.lieben.nu/liebensraum/onedrivemapper/)
 *   [IAM Cloud](https://www.lieben.nu/liebensraum/onedrivemapper/onedrivemapper-cloud/)
