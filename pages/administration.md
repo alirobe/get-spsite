@@ -19,7 +19,7 @@ Get up to speed with these resources.
 
 ## Product roadmap, cloud updates
 
-Keep up to date withproduct  changes.
+Keep up to date
 
 *   [Microsoft 365 Roadmap](https://www.microsoft.com/en-au/microsoft-365/roadmap?)
 *   [SharePoint Team Blog](http://blogs.office.com/sharepoint/)
@@ -29,8 +29,6 @@ Keep up to date withproduct  changes.
 *   Also worth keep up with the [community](/communities)...
 
 ## Authorities (not definitive)
-
-Hone how you apply your skills.
 
 *   [MS 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/)
 *   **[SharePoint Community Blog](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/bg-p/SPBlog)**
@@ -47,7 +45,8 @@ Hone how you apply your skills.
 *   MVP    [Gary Lapointe](http://blog.falchionconsulting.com) and on [ITUnity](http://www.itunity.com/users/gary-lapointe)
 *   MVP    [Spence Harbar](http://harbar.net/)
 *   MVP    [Trevor Seward](https://thesharepointfarm.com/)
-*   MVP    [Vlad Catrinescu](https://absolute-sharepoint.com/)
+*   MVP    [Vlad Catrinescu](https://vladtalkstech.com/)
+
 ## Admin toolkit 
 
 *   [Useful URLs](https://docs.google.com/spreadsheets/d/1vKO9jOaTM4poMOPEogfnH35ky2pRuE8V/edit#gid=667984383) (via [this thread](https://old.reddit.com/r/sharepoint/comments/ubi4cm/sharepoint_admin_useful_urls_sharepoint_rest_api/))

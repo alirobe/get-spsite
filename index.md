@@ -8,11 +8,11 @@ get-spsite
 
 ## PATHS
 
-* [Power-User](power-user)
-* [ECM, Planning and Adoption](planning-adoption)
-* [Administration](administration)
-* [Development](development)
-* [Community](communities)
+* [Power-Users](power-user)
+* [IT & IT Admins](administration)
+* [Developing on SharePoint](development)
+* [Comms, Planning & Adoption, and Governance / Enterprise Content Management](planning-adoption)
+* [SharePoint Community](communities)
 
 ## CONTRIBUTE
 
