@@ -35,8 +35,10 @@ Delve into why/how things work, and learn how the pros do it.
 
 Keep updated with these sources.
 
+*   [MS 365 Youtube](https://www.youtube.com/c/microsoft365)
 *   [MS 365 Blog](https://www.microsoft.com/en-au/microsoft-365/blog/)
 *   [icansharepoint.com](http://icansharepoint.com/)
 *   PowerAutomate: [WonderLaura](https://www.youtube.com/c/Wonderlaura)
 *   PowerShell/PowerApps: [Shane Young](https://www.youtube.com/c/ShaneYoungCloud) 
 *   [Marc D Anderson's blog](https://sympmarc.com/)
+*   [Daniel Anderson on LinkedIn](https://www.linkedin.com/in/danielando/)
