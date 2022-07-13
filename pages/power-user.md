@@ -15,7 +15,7 @@ Get enough info to get by while trying to get things done.
 *   [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way. 
 *   [Microsoft Adoption Centre - Business User](https://adoption.microsoft.com/en-us/roles/business-user/) - communication resources to drive adoption of change.
 *   [Microsoft Adoption Centre - Champion](https://adoption.microsoft.com/en-us/roles/champion/) - communication resources to help people who want to drive change.
-
+*   [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 ## Official / Useful Training
 
 Delve into why/how things work, and learn how the pros do it.
@@ -30,6 +30,7 @@ Delve into why/how things work, and learn how the pros do it.
 *   [Productive Sharepoint Collaboration - Free Book](https://stevegoodyear.wordpress.com/end-user-training-guide/)
 *   [Well-Reviewed Books](https://www.amazon.com/gp/bestsellers/books/6133983011/ref=zg_b_bs_6133983011_1)
 *   [MS Press - Free SharePoint Books](https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/)
+
 
 ## Nice Blogs / Resources
 

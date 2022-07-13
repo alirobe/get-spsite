@@ -35,6 +35,7 @@ Keep updated with these sources.
 
 ## Software / Tools
 
+*   [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 *   [MS Partner Directory](https://www.microsoft.com/en-us/solution-providers/)
 *   [ShareGate](https://www.sharegate.com)
 *   See also: [administration - migration tools](/administration)

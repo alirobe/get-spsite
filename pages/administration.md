@@ -47,8 +47,9 @@ Keep up to date
 *   MVP    [Trevor Seward](https://thesharepointfarm.com/)
 *   MVP    [Vlad Catrinescu](https://vladtalkstech.com/)
 
-## Admin toolkit 
+## Admin Toolkit 
 
+*   [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 *   [Useful URLs](https://docs.google.com/spreadsheets/d/1vKO9jOaTM4poMOPEogfnH35ky2pRuE8V/edit#gid=667984383) (via [this thread](https://old.reddit.com/r/sharepoint/comments/ubi4cm/sharepoint_admin_useful_urls_sharepoint_rest_api/))
 *   [PnP PowerShell](https://pnp.github.io/powershell/)
 *   [Patterns and Practices: Tools](https://github.com/OfficeDev/PnP-Tools)

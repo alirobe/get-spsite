@@ -15,6 +15,7 @@ permalink: /development/
 
 ## Extra Resources
 
+*   [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 *   [React Fluent UI](https://developer.microsoft.com/en-us/fluentui)
 *   [SP Editor](https://www.reddit.com/r/sharepoint/comments/677cq0/sp_editor_this_chrome_extension_adds_a_sharepoint/)
 *   [CAML Designer](http://www.camldesigner.com/)
