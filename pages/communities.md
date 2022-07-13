@@ -9,12 +9,12 @@ permalink: /communities/
 Visit these online groups.
 
 *   Official [Office Network](https://techcommunity.microsoft.com/t5/Communities/ct-p/communities)
-*   Official [SharePoint Uservoice](https://sharepoint.uservoice.com/)
-*   Official [SharePoint Technet Forums](http://social.technet.microsoft.com/Forums/en-US/category/sharepoint)
-*   [Collab365.community](https://collab365.community/)
+*   [SharePoint subreddit](https://old.reddit.com/r/sharepoint/top/?sort=top&t=year) + [Discord](https://discord.gg/7FqFA9rQzR)
+*   [Office 365 subreddit](https://old.reddit.com/r/office365/top/?sort=top&t=year)
+*   [Microsoft 365 subreddit](https://old.reddit.com/r/microsoft365/top/?sort=top&t=year)
+*   [PowerAutomate subreddit](https://old.reddit.com/r/microsoftflow/top/?sort=top&t=year)
 *   [SharePoint Stack Exchange](http://sharepoint.stackexchange.com/)
-*   [SharePoint subreddit](https://sharepoint.reddit.com)
-*   [Office 365 subreddit](https://office365.reddit.com)
+*   [Collab365.community](https://collab365.community/)
 
 ## Conferences
 
@@ -31,15 +31,16 @@ Real/Virtual Get-togethers.
 
 Keep up to date with these feeds.
 
-*   Official [Office Blog](https://blogs.office.com/)
-*   Official [Office 365 Dev Podcasts](http://dev.office.com/podcasts)
-*   Official ['Microsoft Mechanics' Youtube Channel](https://www.youtube.com/user/OfficeGarageSeries)
-*   Official [SharePoint Developer Community Call Youtube Channel](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
-*   Official [Intrazone Podcast](https://intrazone.libsyn.com)
+*   [Official MS 365 Blog](https://www.microsoft.com/en-au/microsoft-365/blog/) (+ Podcasts / YouTubes)
+*   [Official SP Community Blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog) (+ Podcasts / YouTubes)
+*   [Official 'Microsoft Mechanics' YouTube](https://www.youtube.com/user/OfficeGarageSeries)
+*   [Official MS 365 Community Call YouTube](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
+*   [Official Intrazone Podcast](https://intrazone.libsyn.com)
+*   [JumpTo365](https://www.jumpto365.com/blog)'s [YouTube Updates](https://www.youtube.com/channel/UCYGPjbW66h40L4dOt2N_kyw))
+*   [Sharegate blog (Benjamin Niaulin)](https://sharegate.com/blog/)
 *   [Todd Klindt’s SharePoint Netcast](http://www.toddklindt.com/netcast/default.aspx) & [Slack Channel](https://toddklindt.slack.com/)
 *   [Microsoft Cloud Show](http://www.microsoftcloudshow.com/)
 *   [CollabShow](http://www.collabshow.com/)
-*   [Hyperfish Podcast](https://blog.hyperfish.com/tagged/podcast)
 *   [SharePoint Pro Mag](http://sharepointpromag.com/)
 *   [Medium: SharePoint](https://medium.com/tag/sharepoint)
 *   Twitter: [#SharePoint](https://twitter.com/search?q=%23sharepoint) [#sphelp](https://twitter.com/search?q=%23sphelp) ([@alirobe's influencer list](https://twitter.com/alirobe/lists/sharepoint-influencers/members))

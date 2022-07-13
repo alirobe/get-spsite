@@ -7,11 +7,15 @@ permalink: /development/
 
 ## Training
 
-*   **[SharePoint Development](https://docs.microsoft.com/en-us/sharepoint/dev)**
+*   [SP Dev Resources](https://docs.microsoft.com/en-us/sharepoint/dev)
+*   [Patterns and Practices Resources](https://pnp.github.io/)
+*   [MS 365 Dev Blog](https://devblogs.microsoft.com/microsoft365dev/)
+*   [MS Learn for Developers](https://docs.microsoft.com/en-us/learn/roles/developer) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way. 
+*   [Microsoft Adoption Centre - Developer](https://adoption.microsoft.com/en-us/roles/developer/)
 
-## Resources and frameworks
+## Extra Resources
 
-*   [Microsoft Fabric](https://developer.microsoft.com/en-us/fabric)
+*   [React Fluent UI](https://developer.microsoft.com/en-us/fluentui)
 *   [SP Editor](https://www.reddit.com/r/sharepoint/comments/677cq0/sp_editor_this_chrome_extension_adds_a_sharepoint/)
 *   [CAML Designer](http://www.camldesigner.com/)
 

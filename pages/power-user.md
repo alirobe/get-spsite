@@ -6,10 +6,12 @@ permalink: /power-user/
 
 ## Definitions
 
+*   [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way. 
+*   [Microsoft Adoption Centre - Business User](https://adoption.microsoft.com/en-us/roles/business-user/) - communication resources to drive adoption of change.
+*   [Microsoft Adoption Centre - Champion](https://adoption.microsoft.com/en-us/roles/champion/) - communication resources to help people who want to drive change.
 *   [sharepoint.com](http://sharepoint.com)
 *   [wiki page](http://en.wikipedia.org/wiki/SharePoint)
 *   ["what is sharepoint?" – lynda](https://www.youtube.com/watch?v=TE9TpraPlrE)
-
 
 ## Official / Useful Training
 
