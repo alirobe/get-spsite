@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: get-spsite
+title: Ali Robertson | SharePoint Resources
 email: ali@ali.id.au
 description: > # this means to ignore newlines until "baseurl:"
-  returns a bunch of sharepoint and office 365 stuff
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://get-spsite.com" # the base hostname & protocol for your site
+  A collection of information for SharePoint professionals.
+baseurl: "/sharepoint-resources" # the subpath of your site, e.g. /blog
+url: "https://www.ali.id.au/sharepoint-resources" # the base hostname & protocol for your site
 twitter_username: alirobe
 github_username:  alirobe
 

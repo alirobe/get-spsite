@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: rgb(0,36,86);
+  background: #111;
   color: #eee;
   font: 16px;
   line-height: 1.5;
@@ -36,7 +36,7 @@ li {
 */
 
 header {
-  background: rgba(0, 0, 0, 0.1);
+  background: #000;
   width: 100%;
   border-bottom: 1px dashed #eee;
   padding: 20px 0;

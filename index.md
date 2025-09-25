@@ -2,9 +2,9 @@
 layout: default
 ---
 
-##  NAME 
+##  DESCRIPTION 
 
-get-spsite
+This is a collection of SharePoint Resources for professionals.
 
 ## PATHS
 
@@ -16,5 +16,5 @@ get-spsite
 
 ## CONTRIBUTE
 
-* [Contribute via Github](https://github.com/alirobe/get-spsite)
-* Contact the author: [@alirobe](https://twitter.com/alirobe) / [ali.id.au](http://www.ali.id.au)
+* [Contribute via Github](https://github.com/alirobe/sharepoint-resourecs)
+* Contact author / maintainer: [ali.id.au](https://www.ali.id.au)
