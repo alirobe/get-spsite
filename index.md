@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##  DESCRIPTION 
+# OVERVIEW
 
 This is a collection of SharePoint Resources for professionals.
 
