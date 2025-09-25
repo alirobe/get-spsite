@@ -1,8 +1,9 @@
 ---
 layout: default
 permalink: /communities/
+title: Communities
 ---
-# Communities built around SharePoint and Office/Dynamics 365
+## Communities built around SharePoint and Office/Dynamics 365
   
 ## Communities
 

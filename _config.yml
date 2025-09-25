@@ -11,9 +11,20 @@ email: ali@ali.id.au
 description: > # this means to ignore newlines until "baseurl:"
   A collection of information for SharePoint professionals.
 baseurl: "/sharepoint-resources" # the subpath of your site, e.g. /blog
-url: "https://www.ali.id.au/sharepoint-resources" # the base hostname & protocol for your site
+url: "https://www.ali.id.au" # the base hostname & protocol for your site
 twitter_username: alirobe
 github_username:  alirobe
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+timezone: Australia/Melbourne
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+defaults:
+  - scope:
+      path: "pages"
+    values:
+      layout: page

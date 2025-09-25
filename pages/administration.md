@@ -1,8 +1,9 @@
 ---
 layout: default
 permalink: /administration/
+title: IT Admins
 ---
-# Resources for IT Pros and Administrators
+## Resources for IT Pros and Administrators
 
 ## Official / Useful Training  
 
@@ -26,13 +27,13 @@ Keep up to date
 * [Ignite Conf](https://www.microsoft.com/en-us/ignite) (particularly Jeff Teper keynotes)
 * [IntraZone Podcast](https://intrazone.libsyn.com/)
 * [Microsoft 365 Community Calls](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w/videos)
-* Also worth keep up with the [community](./communities)...
+* Also worth keeping up with the [community]({{ site.baseurl }}/communities/)...
 
 ## Authorities (not definitive)
 
 * [MS 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/)
 * **[SharePoint Community Blog](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/bg-p/SPBlog)**
-* [@alirobe's SharePoint-Influencer list](https://twitter.com/alirobe/lists/sharepoint-influencers) 
+* [@alirobe's SharePoint-Influencer list](https://twitter.com/alirobe/lists/sharepoint-influencers)
 * Corporate Vice President [Jeff Teper](https://twitter.com/jeffteper)
 * Produt Dev Leader [Vesa Juvonen](https://twitter.com/vesajuvonen) and his [PnP community calls](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w/videos)
 * Marketing Leader [Mark Kashman](https://twitter.com/mkashman) + Novel Technical Projects Lead [Chris McNulty](https://twitter.com/cmcnulty2000) - [Intrazone Podcast](https://intrazone.libsyn.com/) hosts
@@ -40,14 +41,14 @@ Keep up to date
 * MVP  [Todd Klindt](http://www.toddklindt.com) (Blog, Podcast, Patch Notes)
 * MS VP  [Bill Baer](https://wbaer.net/)
 
-### Archived authorities - great stuff for old on-prem environments.
+### Archived authorities - great stuff for old on-prem environments
 
 * MVP  [Gary Lapointe](http://blog.falchionconsulting.com) and on [ITUnity](http://www.itunity.com/users/gary-lapointe)
 * MVP  [Spence Harbar](http://harbar.net/)
 * MVP  [Trevor Seward](https://thesharepointfarm.com/)
 * MVP  [Vlad Catrinescu](https://vladtalkstech.com/)
 
-## Admin Toolkit 
+## Admin Toolkit
 
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 * [Useful URLs](https://docs.google.com/spreadsheets/d/1vKO9jOaTM4poMOPEogfnH35ky2pRuE8V/edit#gid=667984383) (via [this thread](https://old.reddit.com/r/sharepoint/comments/ubi4cm/sharepoint_admin_useful_urls_sharepoint_rest_api/))

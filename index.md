@@ -8,13 +8,13 @@ This is a collection of SharePoint Resources for professionals.
 
 ## PATHS
 
-* [Power-Users](power-user)
-* [IT & IT Admins](administration)
-* [Developing on SharePoint](development)
-* [Comms, Planning & Adoption, and Governance / Enterprise Content Management](planning-adoption)
-* [SharePoint Community](communities)
+* [Power Users]({{ site.baseurl }}/power-user/)
+* [IT & IT Admins]({{ site.baseurl }}/administration/)
+* [Developing on SharePoint]({{ site.baseurl }}/development/)
+* [Governance & Adoption]({{ site.baseurl }}/planning-adoption/)
+* [SharePoint Community]({{ site.baseurl }}/communities/)
 
 ## CONTRIBUTE
 
-* [Contribute via Github](https://github.com/alirobe/sharepoint-resourecs)
+* [Contribute via GitHub](https://github.com/alirobe/sharepoint-resources)
 * Contact author / maintainer: [ali.id.au](https://www.ali.id.au)

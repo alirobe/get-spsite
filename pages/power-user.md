@@ -1,8 +1,9 @@
 ---
 layout: default
 permalink: /power-user/
+title: Power Users
 ---
-# Resources for SharePoint and Office 365 End-Users
+## Resources for SharePoint and Office 365 End-Users
 
 ## Definitive / Basic Resources
 
@@ -10,9 +11,9 @@ Get enough info to get by while trying to get things done.
 
 * [sharepoint.com](http://sharepoint.com)
 * [wiki page](http://en.wikipedia.org/wiki/SharePoint)
-* ["what is sharepoint?" – lynda](https://www.youtube.com/watch?v=TE9TpraPlrE)]
+* ["what is sharepoint?" – lynda](https://www.youtube.com/watch?v=TE9TpraPlrE)
 * [Microsoft 365 Customer Stories Search](https://customers.microsoft.com/en-AU/search?sq=&ff=&p=0&so=story_publish_date%20desc)
-* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way. 
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way.
 * [Microsoft Adoption Centre - Business User](https://adoption.microsoft.com/en-us/roles/business-user/) - communication resources to drive adoption of change.
 * [Microsoft Adoption Centre - Champion](https://adoption.microsoft.com/en-us/roles/champion/) - communication resources to help people who want to drive change.
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
@@ -40,6 +41,6 @@ Keep updated with these sources.
 * [MS 365 Blog](https://www.microsoft.com/en-au/microsoft-365/blog/)
 * [icansharepoint.com](http://icansharepoint.com/)
 * PowerAutomate: [WonderLaura](https://www.youtube.com/c/Wonderlaura)
-* PowerShell/PowerApps: [Shane Young](https://www.youtube.com/c/ShaneYoungCloud) 
+* PowerShell/PowerApps: [Shane Young](https://www.youtube.com/c/ShaneYoungCloud)
 * [Marc D Anderson's blog](https://sympmarc.com/)
 * [Daniel Anderson on LinkedIn](https://www.linkedin.com/in/danielando/)

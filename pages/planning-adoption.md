@@ -1,15 +1,16 @@
 ---
 layout: default
 permalink: /planning-adoption/
+title: Governance & Adoption
 ---
 
-# Governance, Information Architecture, Planning, and Adoption
+## Governance, Information Architecture, Planning, and Adoption
 
 ## Official / Useful Training
 
 Get up to speed with these resources.
 
-* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way. 
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way.
 * [Microsoft Adoption Centre](http://adoption.microsoft.com/) - communication resources to help communicate change.
 * [Web Archive: Adoption Centre assets for *SharePoint*](https://web.archive.org/web/20220801065213/https://adoption.microsoft.com/en-us/sharepoint/) - these have since been removed, but are super useful.
 * [Periodic Table of Office 365](https://www.jumpto365.com/tables/en)
@@ -25,7 +26,7 @@ Keep updated with these sources.
 * [Official SP Community Blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog) (+ Podcasts / YouTubes)
 * [JumpTo365](https://www.jumpto365.com/blog) ([YouTube](https://www.youtube.com/channel/UCYGPjbW66h40L4dOt2N_kyw))
 * [Sharegate blog (Benjamin Niaulin)](https://sharegate.com/blog/)
-* [Rencore blog (Many influncers! Waldek Mastykarz, Tobias Zimmergren, and more)](https://rencore.com/blog/)
+* [Rencore blog (Many influencers! Waldek Mastykarz, Tobias Zimmergren, and more)](https://rencore.com/blog/)
 * [AvePoint blog (Many influencers)](https://www.avepoint.com/blog/manage/)
 * [ContentPanda blog (Heather Solomon)](https://www.contentpanda.com/blog/)
 * [Step Two blog (James Robertson)](https://www.steptwo.com.au/columntwo/) ([slideshare](http://www.slideshare.net/jamesr)) + Intranet Awards
@@ -39,7 +40,7 @@ Keep updated with these sources.
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 * [MS Partner Directory](https://www.microsoft.com/en-us/solution-providers/)
 * [ShareGate](https://www.sharegate.com)
-* See also: [administration - migration tools](./administration)
+* See also: [administration - migration tools]({{ site.baseurl }}/administration/)
 
 ## Industry Blogs + Communities
 
