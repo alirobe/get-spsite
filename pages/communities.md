@@ -3,7 +3,7 @@ layout: default
 permalink: /communities/
 title: Communities
 ---
-## Find SharePoint community
+## Find your SharePoint community
 
 News, conferences, and groups to keep you current.
   
