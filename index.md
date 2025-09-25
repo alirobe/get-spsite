@@ -2,19 +2,19 @@
 layout: default
 ---
 
-# OVERVIEW
+# SharePoint resources for Microsoft 365 professionals
 
-This is a collection of SharePoint Resources for professionals.
+A curated collection of trusted resources for end users, admins, and developers.
 
-## PATHS
+## Explore
 
-* [Power Users]({{ site.baseurl }}/power-user/)
-* [IT & IT Admins]({{ site.baseurl }}/administration/)
-* [Developing on SharePoint]({{ site.baseurl }}/development/)
-* [Governance & Adoption]({{ site.baseurl }}/planning-adoption/)
-* [SharePoint Community]({{ site.baseurl }}/communities/)
+- Power Users: tips, training, and helpful tools → [Start here]({{ site.baseurl }}/power-user/)
+- IT Admins: governance, security, migration, and admin tooling → [See resources]({{ site.baseurl }}/administration/)
+- Developers: SPFx, PnP, APIs, and toolchains → [Build better]({{ site.baseurl }}/development/)
+- Governance & Adoption: IA, rollout, change comms → [Plan wisely]({{ site.baseurl }}/planning-adoption/)
+- Communities: news, conferences, and active groups → [Get involved]({{ site.baseurl }}/communities/)
 
-## CONTRIBUTE
+## Contribute
 
-* [Contribute via GitHub](https://github.com/alirobe/sharepoint-resources)
-* Contact author / maintainer: [ali.id.au](https://www.ali.id.au)
+- Improve this list on GitHub: <https://github.com/alirobe/sharepoint-resources>
+- Contact the maintainer: <https://www.ali.id.au>

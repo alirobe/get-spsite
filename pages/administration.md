@@ -3,7 +3,9 @@ layout: default
 permalink: /administration/
 title: IT Admins
 ---
-## Resources for IT Pros and Administrators
+## Administer SharePoint and Microsoft 365 with confidence
+
+Vetted links for administrators and IT pros: training, roadmaps, migrations, and essential tools.
 
 ## Official / Useful Training  
 
@@ -18,7 +20,7 @@ Get up to speed with these resources.
 * [LinkedIn Learning: SharePoint](https://www.linkedin.com/learning/search?keywords=sharepoint)
 * [List of Office 365 Security Resources](https://practical365.com/office-365-security-resources/)
 
-## Product roadmap, cloud updates
+## Roadmap and updates
 
 Keep up to date
 
@@ -29,7 +31,7 @@ Keep up to date
 * [Microsoft 365 Community Calls](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w/videos)
 * Also worth keeping up with the [community]({{ site.baseurl }}/communities/)...
 
-## Authorities (not definitive)
+## People and blogs worth following
 
 * [MS 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/)
 * **[SharePoint Community Blog](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/bg-p/SPBlog)**
@@ -41,14 +43,14 @@ Keep up to date
 * MVP  [Todd Klindt](http://www.toddklindt.com) (Blog, Podcast, Patch Notes)
 * MS VP  [Bill Baer](https://wbaer.net/)
 
-### Archived authorities - great stuff for old on-prem environments
+### Classic on‑prem experts (archived)
 
 * MVP  [Gary Lapointe](http://blog.falchionconsulting.com) and on [ITUnity](http://www.itunity.com/users/gary-lapointe)
 * MVP  [Spence Harbar](http://harbar.net/)
 * MVP  [Trevor Seward](https://thesharepointfarm.com/)
 * MVP  [Vlad Catrinescu](https://vladtalkstech.com/)
 
-## Admin Toolkit
+## Admin tools
 
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 * [Useful URLs](https://docs.google.com/spreadsheets/d/1vKO9jOaTM4poMOPEogfnH35ky2pRuE8V/edit#gid=667984383) (via [this thread](https://old.reddit.com/r/sharepoint/comments/ubi4cm/sharepoint_admin_useful_urls_sharepoint_rest_api/))

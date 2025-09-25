@@ -3,9 +3,11 @@ layout: default
 permalink: /power-user/
 title: Power Users
 ---
-## Resources for SharePoint and Office 365 End-Users
+## Learn SharePoint the quick way
 
-## Definitive / Basic Resources
+Practical links to help Microsoft 365 and SharePoint end users be productive—training, templates, and curated channels.
+
+## Get started
 
 Get enough info to get by while trying to get things done.
 
@@ -18,7 +20,7 @@ Get enough info to get by while trying to get things done.
 * [Microsoft Adoption Centre - Champion](https://adoption.microsoft.com/en-us/roles/champion/) - communication resources to help people who want to drive change.
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
-## Official / Useful Training
+## Learn more
 
 Delve into why/how things work, and learn how the pros do it.
 
@@ -33,7 +35,7 @@ Delve into why/how things work, and learn how the pros do it.
 * [Well-Reviewed Books](https://www.amazon.com/gp/bestsellers/books/6133983011/ref=zg_b_bs_6133983011_1)
 * [MS Press - Free SharePoint Books](https://blogs.msdn.microsoft.com/mssmallbiz/category/ebooks/)
 
-## Nice Blogs / Resources
+## Keep up-to-date
 
 Keep updated with these sources.
 

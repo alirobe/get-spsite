@@ -4,7 +4,9 @@ permalink: /development/
 title: Development
 ---
 
-## Design & development resources
+## Build better SharePoint solutions
+
+Focused links for SPFx, PnP, and Microsoft 365 development—learn, scaffold, test, and ship.
 
 ## Training
 
@@ -14,7 +16,7 @@ title: Development
 * [MS Learn for Developers](https://docs.microsoft.com/en-us/learn/roles/developer) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way.
 * [Microsoft Adoption Centre - Developer](https://adoption.microsoft.com/en-us/roles/developer/)
 
-## Extra Resources
+## Extra resources
 
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 * [React Fluent UI](https://developer.microsoft.com/en-us/fluentui)
@@ -29,13 +31,13 @@ title: Development
   * List: [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
   * List: [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 
-## Testing & Dev Tools
+## Testing & dev tools
 
 * [Rencore SharePoint Customizations Guide](https://rencore.com/sharepoint-customizations-guide/) & [SPCAF](https://rencore.com)
 * [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en)
 * More at this [reddit thread](https://www.reddit.com/r/sharepoint/comments/3xur5o/useful_sharepoint_dev_tools/)
 
-## Frameworks and Packaged solutions
+## Frameworks and packaged solutions
 
 * **[PnP Modern Starter Kit](https://github.com/SharePoint/sp-starter-kit) (365 only)**
 * **[PnP Starter Intranet](https://github.com/SharePoint/PnP/tree/master/Solutions/Business.StarterIntranet) (2016+)**

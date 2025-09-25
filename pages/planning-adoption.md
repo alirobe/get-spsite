@@ -4,9 +4,11 @@ permalink: /planning-adoption/
 title: Governance & Adoption
 ---
 
-## Governance, Information Architecture, Planning, and Adoption
+## Governance, information architecture, planning, and adoption
 
-## Official / Useful Training
+Curated guidance for successful rollouts: IA, change communications, and practical governance.
+
+## Learn and plan
 
 Get up to speed with these resources.
 
@@ -18,7 +20,7 @@ Get up to speed with these resources.
 * [Well-Reviewed Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+governance&sprefix=sharepoint+governance%2Caps%2C910)
 * [Why two in three SharePoint Projects Fail](http://info.aiim.org/connecting-and-optimizing-sharepoint)
 
-## Authorities
+## People and blogs worth following
 
 Keep updated with these sources.
 
@@ -35,14 +37,14 @@ Keep updated with these sources.
 * [Marc Anderson - Sympmarc](http://sympmarc.com)
 * [Gartner Blogs - Craig Roth](http://blogs.gartner.com/craig-roth)
 
-## Software / Tools
+## Software and tools
 
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 * [MS Partner Directory](https://www.microsoft.com/en-us/solution-providers/)
 * [ShareGate](https://www.sharegate.com)
 * See also: [administration - migration tools]({{ site.baseurl }}/administration/)
 
-## Industry Blogs + Communities
+## Industry blogs and communities
 
 * [Collab365](https://collab365.com/)
 * [/r/sharepoint](https://sharepoint.reddit.com)

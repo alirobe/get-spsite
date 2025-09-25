@@ -3,9 +3,11 @@ layout: default
 permalink: /communities/
 title: Communities
 ---
-## Communities built around SharePoint and Office/Dynamics 365
+## Find SharePoint community
+
+News, conferences, and groups to keep you current.
   
-## Communities
+## Join communities
 
 Visit these online groups.
 
@@ -28,7 +30,7 @@ Real/Virtual Get-togethers.
 * For conference recordings search Youtube and [Channel9](http://ch9.ms)
 * [IT Unity](https://itunity.com) has [Connect Online](https://www.unityconnect.com/online) - a free online conference with free access to recordings.
 
-## News & Updates
+## News and updates
 
 Keep up to date with these feeds.
 

@@ -1,4 +1,16 @@
 <header>
   <p class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></p>
   <p>{{ site.description }}</p>
+  {% assign current = page.url %}
+  {% if current and site.baseurl and current contains site.baseurl %}
+    {% assign current = current | remove: site.baseurl %}
+  {% endif %}
+  <nav>
+    <a href="{{ site.baseurl }}/" {% if current == "/" %}aria-current="page"{% endif %}>Home</a>
+    <a href="{{ site.baseurl }}/power-user/" {% if current == "/power-user/" %}aria-current="page"{% endif %}>Power Users</a>
+    <a href="{{ site.baseurl }}/administration/" {% if current == "/administration/" %}aria-current="page"{% endif %}>IT Admins</a>
+    <a href="{{ site.baseurl }}/development/" {% if current == "/development/" %}aria-current="page"{% endif %}>Developers</a>
+    <a href="{{ site.baseurl }}/planning-adoption/" {% if current == "/planning-adoption/" %}aria-current="page"{% endif %}>Governance & Adoption</a>
+    <a href="{{ site.baseurl }}/communities/" {% if current == "/communities/" %}aria-current="page"{% endif %}>Communities</a>
+  </nav>
 </header>
