@@ -26,7 +26,7 @@ Keep up to date
 *   [Ignite Conf](https://www.microsoft.com/en-us/ignite) (particularly Jeff Teper keynotes)
 *   [IntraZone Podcast](https://intrazone.libsyn.com/)
 *   [Microsoft 365 Community Calls](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w/videos)
-*   Also worth keep up with the [community](/communities)...
+*   Also worth keep up with the [community](./communities)...
 
 ## Authorities (not definitive)
 
