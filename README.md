@@ -1,1 +1,1 @@
-This has been moved to [https://www.ali.id.au/resources/sharepoint]
+This has been moved to https://www.ali.id.au/resources/sharepoint
