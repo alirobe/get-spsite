@@ -12,11 +12,11 @@ Curated guidance for successful rollouts: IA, change communications, and practic
 
 Get up to speed with these resources.
 
-* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way.
+* [Microsoft Learn](https://learn.microsoft.com/training/) - structured learning paths.
 * [Microsoft Adoption Centre](http://adoption.microsoft.com/) - communication resources to help communicate change.
 * [Web Archive: Adoption Centre assets for *SharePoint*](https://web.archive.org/web/20220801065213/https://adoption.microsoft.com/en-us/sharepoint/) - these have since been removed, but are super useful.
 * [Periodic Table of Office 365](https://www.jumpto365.com/tables/en)
-* [MS 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/)
+* [Microsoft 365 community content](https://learn.microsoft.com/microsoft-365/community/)
 * [Well-Reviewed Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+governance&sprefix=sharepoint+governance%2Caps%2C910)
 * [Why two in three SharePoint Projects Fail](http://info.aiim.org/connecting-and-optimizing-sharepoint)
 
@@ -40,15 +40,14 @@ Keep updated with these sources.
 ## Software and tools
 
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
-* [MS Partner Directory](https://www.microsoft.com/en-us/solution-providers/)
+* [Microsoft solution provider directory](https://www.microsoft.com/solution-providers/)
 * [ShareGate](https://www.sharegate.com)
 * See also: [administration - migration tools]({{ site.baseurl }}/administration/)
 
 ## Industry blogs and communities
 
 * [Collab365](https://collab365.com/)
-* [/r/sharepoint](https://sharepoint.reddit.com)
-* [/r/microsoft365](https://microsoft365.reddit.com/)
-* [IT Unity](https://www.itunity.com/)
+* [/r/sharepoint](https://old.reddit.com/r/sharepoint/)
+* [/r/microsoft365](https://old.reddit.com/r/Microsoft365/)
 * [TechTarget](http://searchcontentmanagement.techtarget.com/)
 * SPTechCon

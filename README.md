@@ -1,6 +1,6 @@
 # SharePoint Resources
 
-This is a collection of SharePoint resources for professionals.
+A curated collection of trusted resources for end users, admins, and developers.
 
 ## Links
 

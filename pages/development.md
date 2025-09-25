@@ -10,10 +10,10 @@ Focused links for SPFx, PnP, and Microsoft 365 development—learn, scaffold, te
 
 ## Training
 
-* [SP Dev Resources](https://docs.microsoft.com/en-us/sharepoint/dev)
+* [SharePoint development docs](https://learn.microsoft.com/sharepoint/dev/)
 * [Patterns and Practices Resources](https://pnp.github.io/)
 * [MS 365 Dev Blog](https://devblogs.microsoft.com/microsoft365dev/)
-* [MS Learn for Developers](https://docs.microsoft.com/en-us/learn/roles/developer) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way.
+* [Microsoft Learn for Developers](https://learn.microsoft.com/training/roles/developer/) - structured learning paths.
 * [Microsoft Adoption Centre - Developer](https://adoption.microsoft.com/en-us/roles/developer/)
 
 ## Extra resources
@@ -25,8 +25,8 @@ Focused links for SPFx, PnP, and Microsoft 365 development—learn, scaffold, te
 
 ## Code
 
-* [OfficeDev Repos](https://github.com/OfficeDev) & [Resource List](https://dev.office.com/patterns-and-practices-resources)
-* [SharePoint Repos](https://github.com/sharepoint) & [PnP](https://github.com/SharePoint/PnP)
+* [MS365 OfficeDev GitHub](https://github.com/OfficeDev) & [SharePoint GitHub](https://github.com/SharePoint)
+* [MS 365 PnP GitHub org](https://github.com/pnp)
 * Code snippets: [The Awesome Lists](https://github.com/sindresorhus/awesome)
   * List: [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
   * List: [Awesome .NET](https://github.com/quozd/awesome-dotnet)
@@ -39,9 +39,9 @@ Focused links for SPFx, PnP, and Microsoft 365 development—learn, scaffold, te
 
 ## Frameworks and packaged solutions
 
-* **[PnP Modern Starter Kit](https://github.com/SharePoint/sp-starter-kit) (365 only)**
+* **[PnP Starter Kit](https://github.com/pnp/sp-starter-kit) (Microsoft 365)**
+* **[PnP SPFx Webparts](https://github.com/pnp/sp-dev-fx-webparts)**
 * **[PnP Starter Intranet](https://github.com/SharePoint/PnP/tree/master/Solutions/Business.StarterIntranet) (2016+)**
-* **[PnP SPFx Webparts](https://github.com/SharePoint/sp-dev-fx-webparts)**
 * [Apptex for SharePoint](http://spapptex.com/) (free)
 * [Bind Tuning](http://bindtuning.com) (free/paid)
 * [Bonzai](http://bonzai-intranet.com/)
