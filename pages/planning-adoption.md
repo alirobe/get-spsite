@@ -39,7 +39,7 @@ Keep updated with these sources.
 *   [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 *   [MS Partner Directory](https://www.microsoft.com/en-us/solution-providers/)
 *   [ShareGate](https://www.sharegate.com)
-*   See also: [administration - migration tools](/administration)
+*   See also: [administration - migration tools](./administration)
 
 ## Industry Blogs + Communities
 
