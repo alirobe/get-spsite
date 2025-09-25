@@ -1,1 +1,4 @@
-This has been moved to https://www.ali.id.au/resources/sharepoint
+
+This site used to be called get-spsite
+
+It has been moved to https://www.ali.id.au/resources/sharepoint
