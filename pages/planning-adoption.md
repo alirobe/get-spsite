@@ -11,6 +11,7 @@ Get up to speed with these resources.
 
 *   [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - learn in a structured, certifiable way to advance your career and ensure you're doing things the right way. 
 *   [Microsoft Adoption Centre](http://adoption.microsoft.com/) - communication resources to help communicate change.
+*   [Web Archive: Adoption Centre assets for *SharePoint*](https://web.archive.org/web/20220801065213/https://adoption.microsoft.com/en-us/sharepoint/) - these have since been removed, but are super useful.
 *   [Periodic Table of Office 365](https://www.jumpto365.com/tables/en)
 *   [MS 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/)
 *   [Well-Reviewed Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+governance&sprefix=sharepoint+governance%2Caps%2C910)
